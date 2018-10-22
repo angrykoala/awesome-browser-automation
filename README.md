@@ -2,7 +2,7 @@
 
 Curated list of awesome browser automation tools and resources.
 
-Browser automation is the act of executing action automatically in a web browser either for testing, web scrapping or to perform repetitive tasks faster. Specialized software is usually required to do this. This software may control an external browser or be a browser itself.
+Browser automation is the act of executing actions automatically in a web browser either for testing, web scrapping or to perform repetitive tasks faster. Specialized software is usually required to do this. This software may control an external browser or be a browser itself.
 
 ## Contents
 * [Tools](#tools)
