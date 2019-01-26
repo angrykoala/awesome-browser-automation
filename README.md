@@ -24,7 +24,6 @@ Browser automation is the act of executing actions automatically in a web browse
 ### Related Tools
 
 * [Postman](https://www.getpostman.com) - API development tool.
-* [Sikuli](http://www.sikuli.org) - UI automation scripting, not only for browsers.
 
 ## Resources
 
