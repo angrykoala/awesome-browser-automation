@@ -7,6 +7,7 @@ Browser automation is the act of executing actions automatically in a web browse
 ## Contents
 * [Tools](#tools)
   * [Related Tools](#related-tools)
+* [Articles](#articles)
 * [Resources](#resources)
 
 ## Tools
@@ -26,6 +27,10 @@ Browser automation is the act of executing actions automatically in a web browse
 ### Related Tools
 
 * [Postman](https://www.getpostman.com) - API requests and development tool with automation options.
+
+## Articles
+
+* [Martin Fowler - PageObject](https://martinfowler.com/bliki/PageObject.html) - An article describing the basic concepts of page object pattern.
 
 ## Resources
 
