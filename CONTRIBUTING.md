@@ -21,7 +21,7 @@ Please ensure your pull request adheres to the following guidelines:
 * The link must refer to the original author, documentation or resource of the tool.
 * While not strictly required, software that is currently maintained is preferable.
 * If a tool is not a browser automation tool, but it is somehow related to browser automation and testing, please add it under **related tools**
-* If a tool is a plugin, or depends on another tool, please add it as a sublist under the mentioned tool using the same format as other items in the list.
+* If a tool is a plugin, or depends on another tool, please add it as an alphabetically ordered sublist item under the mentioned tool using the same format as other items in the list.
 
 ## Articles & Resources
 * Articles and resources must be related to browser automation.
