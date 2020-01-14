@@ -19,6 +19,7 @@ Browser automation is the act of executing actions automatically in a web browse
 * [PhantomBuster](https://phantombuster.com) - Automate webscraping and actions without coding. 
 * [PhantomJs](https://github.com/ariya/phantomjs) - Headless browser for Node.js.
 * [Puppeteer](https://github.com/GoogleChrome/puppeteer) - High level API in Node.js to control Chrome.
+  * [Browserless](https://browserless.js.org) - Complementary library for Puppeteer with sensible defaults, adblocker and pooling. 
 * [Selenium](https://www.seleniumhq.org) - Suite to automate multiple browsers in different platforms.
 * [WebdriverIO](http://webdriver.io/) - Webdriver bindings to Node.js that lets you control a browser.
 * [Wendigo](https://github.com/angrykoala/wendigo) - Test-oriented automation tool built on top of Puppeteer.
