@@ -1,0 +1,10 @@
+language: node_js
+os:
+    - linux
+node_js:
+    - "lts/*"
+sudo: false
+git:
+  depth: false
+script:
+  - npx awesome-lint
