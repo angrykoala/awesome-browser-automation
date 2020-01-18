@@ -18,7 +18,9 @@ Browser automation is the act of executing actions automatically in a web browse
 :moneybag: - Paid  
 :no_entry_sign: - Deprecated
 
-* [Capybara :tada:](https://github.com/teamcapybara/capybara) - Driver-agnostic tool and DSL to write automation tests in Ruby .
+* [Capybara :tada:](https://github.com/teamcapybara/capybara) - Driver-agnostic tool and DSL to write automation tests in Ruby.
+* [Codeception :tada:](https://github.com/codeception/codeception) - PHP end-to-end testing with BDD style.
+* [CodeceptJS :tada:](https://github.com/Codeception/CodeceptJS) - BDD style tests with support for multiple headless browsers.
 * [Cypress :moneybag::tada:](https://www.cypress.io) - E2E testing for JavaScript through a browser.
 * [Endtest :moneybag:](https://endtest.io) - Cloud-based codeless automated testing.
 * [FrontendRobot :moneybag:](https://frontendrobot.com) - Codeless testing on the web.
