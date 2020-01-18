@@ -24,12 +24,13 @@ Browser automation is the act of executing actions automatically in a web browse
   * [Browserless](https://browserless.js.org) - Complementary library for Puppeteer with sensible defaults, adblocker and pooling.
   * [Puppeteer-Firefox](https://github.com/puppeteer/puppeteer/tree/master/experimental/puppeteer-firefox) - Experimental support for Firefox using Puppeteer.
   * [Puppeteer-Extra](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra) - Plugin support for Puppeteer and several plugins including stealh, recaptcha and adblocker.
+  * [Puppeteer-Recorder](https://checklyhq.com/docs/puppeteer-recorder) - Chrome extension to record interactions and generate Puppeteer scripts.
 * [Selenium](https://www.seleniumhq.org) - Suite to automate multiple browsers in different platforms.
 * [WebdriverIO](http://webdriver.io/) - Webdriver bindings to Node.js that lets you control a browser.
 * [Wendigo](https://github.com/angrykoala/wendigo) - Test-oriented automation tool built on top of Puppeteer.
 * [ZombieJs](http://zombie.js.org/) - Headless testing in Node.js.
 
-### Related Tools
+### Related
 
 * [Postman](https://www.getpostman.com) - API requests and development tool with automation options.
 
