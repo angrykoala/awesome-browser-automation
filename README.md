@@ -14,9 +14,11 @@ Browser automation is the act of executing actions automatically in a web browse
 
 * [Capybara](https://github.com/teamcapybara/capybara) - Driver-agnostic tool and DSL to write automation tests in Ruby.
 * [Cypress](https://www.cypress.io) - E2E testing for JavaScript through a browser.
+* [Endtest](https://endtest.io) - Cloud-based codeless automated testing.
+* [FrontendRobot](https://frontendrobot.com) - Codeless testing on the web.
 * [NightmareJs](https://github.com/segmentio/nightmare) - High-level browser automation built on top of Electron.
 * [QAWolf](https://docs.qawolf.com) - Create Puppeteer tests by recording actions.
-* [PhantomBuster](https://phantombuster.com) - Automate webscraping and actions without coding. 
+* [PhantomBuster](https://phantombuster.com) - Automate webscraping and actions without coding.
 * [PhantomJs](https://github.com/ariya/phantomjs) - Headless browser for Node.js.
 * [Puppeteer](https://github.com/GoogleChrome/puppeteer) - High level API in Node.js to control Chrome.
   * [Browserless](https://browserless.js.org) - Complementary library for Puppeteer with sensible defaults, adblocker and pooling.
