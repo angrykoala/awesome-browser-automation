@@ -7,7 +7,7 @@ Browser automation is the act of executing actions automatically in a web browse
 ## Contents
 
 * [Tools](#tools)
-  * [Related Tools](#related-tools)
+  * [Related](#related)
 * [Articles](#articles)
 * [Resources](#resources)
 
@@ -18,23 +18,23 @@ Browser automation is the act of executing actions automatically in a web browse
 :moneybag: - Paid  
 :no_entry_sign: - Deprecated
 
-* [Capybara](https://github.com/teamcapybara/capybara) :tada: - Driver-agnostic tool and DSL to write automation tests in Ruby.
-* [Cypress](https://www.cypress.io) :moneybag::tada: - E2E testing for JavaScript through a browser.
-* [Endtest](https://endtest.io) :moneybag: - Cloud-based codeless automated testing.
-* [FrontendRobot](https://frontendrobot.com) :moneybag: - Codeless testing on the web.
-* [NightmareJs](https://github.com/segmentio/nightmare) :tada::no_entry_sign: - High-level browser automation built on top of Electron.
-* [QAWolf](https://docs.qawolf.com) :tada: - Create Puppeteer tests by recording actions.
-* [PhantomBuster](https://phantombuster.com) :moneybag: - Automate webscraping and actions without coding.
-* [PhantomJs](https://github.com/ariya/phantomjs) :tada::no_entry_sign: - Headless browser for Node.js.
-* [Puppeteer](https://github.com/GoogleChrome/puppeteer) :tada: - High level API in Node.js to control Chrome.
-  * [Browserless](https://browserless.js.org) :tada: - Complementary library for Puppeteer with sensible defaults, adblocker and pooling.
-  * [Puppeteer-Firefox](https://github.com/puppeteer/puppeteer/tree/master/experimental/puppeteer-firefox) :tada: - Experimental support for Firefox using Puppeteer.
-  * [Puppeteer-Extra](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra) :tada: - Plugin support for Puppeteer and several plugins including stealh, recaptcha and adblocker.
-  * [Puppeteer-Recorder](https://checklyhq.com/docs/puppeteer-recorder) :tada:- Chrome extension to record interactions and generate Puppeteer scripts.
-* [Selenium](https://www.seleniumhq.org) :tada: - Suite to automate multiple browsers in different platforms.
-* [WebdriverIO](http://webdriver.io) :tada: - Webdriver bindings to Node.js that lets you control a browser.
-* [Wendigo](https://github.com/angrykoala/wendigo) :tada: - Test-oriented automation tool built on top of Puppeteer.
-* [ZombieJs](http://zombie.js.org) :tada::no_entry_sign: - Headless testing in Node.js.
+* [Capybara :tada:](https://github.com/teamcapybara/capybara) - Driver-agnostic tool and DSL to write automation tests in Ruby .
+* [Cypress :moneybag::tada:](https://www.cypress.io) - E2E testing for JavaScript through a browser.
+* [Endtest :moneybag:](https://endtest.io) - Cloud-based codeless automated testing.
+* [FrontendRobot :moneybag:](https://frontendrobot.com) - Codeless testing on the web.
+* [NightmareJs :tada::no_entry_sign:](https://github.com/segmentio/nightmare) - High-level browser automation built on top of Electron.
+* [QAWolf :tada:](https://docs.qawolf.com) - Create Puppeteer tests by recording actions .
+* [PhantomBuster :moneybag:](https://phantombuster.com) - Automate webscraping and actions without coding.
+* [PhantomJs :tada::no_entry_sign:](https://github.com/ariya/phantomjs) - Headless browser for Node.js.
+* [Puppeteer :tada:](https://github.com/GoogleChrome/puppeteer) - High level API in Node.js to control Chrome.
+  * [Browserless :tada:](https://browserless.js.org) - Complementary library for Puppeteer with sensible defaults, adblocker and pooling.
+  * [Puppeteer-Firefox :tada:](https://github.com/puppeteer/puppeteer/tree/master/experimental/puppeteer-firefox) - Experimental support for Firefox using Puppeteer.
+  * [Puppeteer-Extra :tada:](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra) - Plugin support for Puppeteer and several plugins including stealh, recaptcha and adblocker.
+  * [Puppeteer-Recorder :tada:](https://checklyhq.com/docs/puppeteer-recorder) - Chrome extension to record interactions and generate Puppeteer scripts.
+* [Selenium :tada:](https://www.seleniumhq.org) - Suite to automate multiple browsers in different platforms.
+* [WebdriverIO :tada:](http://webdriver.io) - Webdriver bindings to Node.js that lets you control a browser.
+* [Wendigo :tada:](https://github.com/angrykoala/wendigo) - Test-oriented automation tool built on top of Puppeteer.
+* [ZombieJs :tada::no_entry_sign:](http://zombie.js.org) - Headless testing in Node.js.
 
 ### Related
 

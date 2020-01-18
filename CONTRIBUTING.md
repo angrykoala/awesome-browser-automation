@@ -22,7 +22,7 @@ Please ensure your pull request adheres to the following guidelines:
 * While not strictly required, software that is currently maintained is preferable.
 * If a tool is not a browser automation tool, but it is somehow related to browser automation and testing, please add it under **related tools**
 * If a tool is a plugin, or depends on another tool, please add it as an alphabetically ordered sublist item under the mentioned tool using the same format as other items in the list.
-* If relevant, add emojis according to the legend for information about pricing etc... Just after the name+link.
+* If relevant, add emojis according to the legend for information about pricing etc...
 
 ## Articles & Resources
 * Articles and resources must be related to browser automation.
