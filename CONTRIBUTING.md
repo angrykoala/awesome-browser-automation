@@ -1,3 +1,5 @@
+> Missing something, or something wrong in the list? Open an Issue or create a Pull Request!
+
 # Contribution Guidelines
 
 Please ensure your pull request adheres to the following guidelines:
