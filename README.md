@@ -57,6 +57,7 @@ Browser automation is the act of executing actions automatically in a web browse
 * [Jsdom :tada:](https://github.com/jsdom/jsdom) - DOM implementation in Node.js to emulate real browsers.
 * [Postman](https://www.getpostman.com) - API requests and development tool with automation options.
 * [Spectron :tada:](https://electronjs.org/spectron) - Test Electron apps using webdriver.
+* [X-Ray :tada:](https://github.com/matthewmueller/x-ray) - Web Scraper with composable API and extra drivers.
 
 ## Articles
 
