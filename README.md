@@ -25,7 +25,7 @@ Browser automation is the act of executing actions automatically in a web browse
 * [Cypress :moneybag::tada:](https://www.cypress.io) - E2E testing for JavaScript through a browser.
 * [DalekJS :tada::no_entry_sign:](http://dalekjs.com) - Cross-browser automation with JavaScript.
 * [Endtest :moneybag:](https://endtest.io) - Cloud-based codeless automated testing.
-* [Erik :tada:](https://github.com/phimage/Erik) - Headless browser for functional tests based on WebKit and [Kanna](https://github.com/tid-kijyun/Kanna).
+* [Erik :tada:](https://github.com/phimage/Erik) - Headless browser for functional tests in Swift, based on WebKit and [Kanna](https://github.com/tid-kijyun/Kanna).
 * [FrontendRobot :moneybag:](https://frontendrobot.com) - Codeless testing on the web.
 * [Ghost.py :tada::no_entry_sign:](https://github.com/jeanphix/Ghost.py) - Webkit based scriptable web browser for python.
 * [Mechanize :tada:](https://mechanize.readthedocs.io/en/latest) - Programmatic web browser emulation in Python.
