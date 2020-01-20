@@ -27,7 +27,8 @@ Browser automation is the act of executing actions automatically in a web browse
 * [Erik :tada:](https://github.com/phimage/Erik) - Headless browser for functional tests based on WebKit and [Kanna](https://github.com/tid-kijyun/Kanna).
 * [FrontendRobot :moneybag:](https://frontendrobot.com) - Codeless testing on the web.
 * [Ghost.py :tada::no_entry_sign:](https://github.com/jeanphix/Ghost.py) - Webkit based scriptable web browser for python.
-* [Mechanize](https://mechanize.readthedocs.io/en/latest) - Programmatic web browser emulation in Python.
+* [Mechanize :tada:](https://mechanize.readthedocs.io/en/latest) - Programmatic web browser emulation in Python.
+* [Mink :tada::no_entry_sign:](http://mink.behat.org/en/latest) - PHP web browser emulation with support for multiple drivers.
 * [NightmareJs :tada::no_entry_sign:](https://github.com/segmentio/nightmare) - High-level browser automation built on top of Electron.
 * [QAWolf :tada:](https://docs.qawolf.com) - Create Puppeteer tests by recording actions .
 * [PhantomBuster :moneybag:](https://phantombuster.com) - Automate webscraping and actions without coding.
@@ -37,10 +38,14 @@ Browser automation is the act of executing actions automatically in a web browse
   * [Puppeteer-Firefox :tada:](https://github.com/puppeteer/puppeteer/tree/master/experimental/puppeteer-firefox) - Experimental support for Firefox using Puppeteer.
   * [Puppeteer-Extra :tada:](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra) - Plugin support for Puppeteer and several plugins including stealh, recaptcha and adblocker.
   * [Puppeteer-Recorder :tada:](https://checklyhq.com/docs/puppeteer-recorder) - Chrome extension to record interactions and generate Puppeteer scripts.
+* [Robobrowser :tada::no_entry_sign:](https://robobrowser.readthedocs.io/en/latest) - Standalone Python library for web browsing.
 * [Selenium :tada:](https://www.seleniumhq.org) - Suite to automate multiple browsers in different platforms.
+  * [PHP-Webdriver :tada:](https://github.com/php-webdriver/php-webdriver) - PHP Client for Selenium/WebDriver.
   * [Selenium-python :tada::no_entry_sign:](https://selenium-python.readthedocs.io) - Selenium bindings for Python.
+* [SimpleBrowser :tada::no_entry_sign:](https://github.com/SimpleBrowserDotNet/SimpleBrowser) - Browser automation engine build on .NET.
 * [SlimerJS :tada:](https://slimerjs.org) - Scriptable browser built on top of Gecko.
 * [Splinter :tada:](https://splinter.readthedocs.io/en/latest/index.html) - Python abstraction of existing browser automation tools with a high-level API for testing.
+* [TestCafe :tada:](https://devexpress.github.io/testcafe) - Full end-to-end testing environment supporting multiple browsers.
 * [TrifleJS :tada::no_entry_sign:](http://triflejs.org) - Headless Internet Explorer automation. Built with .NET and JavaScript.
 * [WebdriverIO :tada:](http://webdriver.io) - Webdriver bindings to Node.js that lets you control a browser.
 * [Wendigo :tada:](https://github.com/angrykoala/wendigo) - Test-oriented automation tool built on top of Puppeteer.
