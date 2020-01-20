@@ -34,7 +34,8 @@ Browser automation is the act of executing actions automatically in a web browse
   * [Puppeteer-Extra :tada:](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra) - Plugin support for Puppeteer and several plugins including stealh, recaptcha and adblocker.
   * [Puppeteer-Recorder :tada:](https://checklyhq.com/docs/puppeteer-recorder) - Chrome extension to record interactions and generate Puppeteer scripts.
 * [Selenium :tada:](https://www.seleniumhq.org) - Suite to automate multiple browsers in different platforms.
-  * [Selenium-python :tada:](https://selenium-python.readthedocs.io) - Selenium bindings for Python.
+  * [Selenium-python :tada::no_entry_sign:](https://selenium-python.readthedocs.io) - Selenium bindings for Python.
+* [SlimerJS :tada:](https://slimerjs.org) - Scriptable browser built on top of Gecko.
 * [WebdriverIO :tada:](http://webdriver.io) - Webdriver bindings to Node.js that lets you control a browser.
 * [Wendigo :tada:](https://github.com/angrykoala/wendigo) - Test-oriented automation tool built on top of Puppeteer.
 * [ZombieJs :tada::no_entry_sign:](http://zombie.js.org) - Headless testing in Node.js.
