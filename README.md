@@ -16,7 +16,7 @@ Browser automation is the act of executing actions automatically in a web browse
 
 :tada: - Open Source  
 :moneybag: - Paid  
-:no_entry_sign: - Deprecated
+:no_entry_sign: - Not Maintained
 
 * [Capybara :tada:](https://github.com/teamcapybara/capybara) - Driver-agnostic tool and DSL to write automation tests in Ruby.
 * [Chromedp :tada:](https://github.com/chromedp/chromedp) - Browser automation through Chrome DevTools Protocol fully implemented in Go.
