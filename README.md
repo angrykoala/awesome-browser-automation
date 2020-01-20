@@ -76,9 +76,3 @@ Browser automation is the act of executing actions automatically in a web browse
 * [Cucumber Browser Automation](https://cucumber.io/docs/guides/browser-automation) - Guide for [BDD](https://en.wikipedia.org/wiki/Behavior-driven_development) testing using Selenium with Cucumber.
 * [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - Detailed list of multiple headless browsers.
 * [Webdriver Specification](https://www.w3.org/TR/webdriver1) - Standard definition of agents to control a browser.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
-
-The content of this list is available under CC0 public domain dedication.
