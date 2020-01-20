@@ -40,9 +40,10 @@ Browser automation is the act of executing actions automatically in a web browse
 
 ### Related
 
-* [Cheerio](https://github.com/cheeriojs/cheerio) - JQuery implementation in Node.js for DOM emulation.
-* [Jsdom](https://github.com/jsdom/jsdom) - DOM implementation in Node.js to emulate real browsers.
+* [Cheerio :tada:](https://github.com/cheeriojs/cheerio) - JQuery implementation in Node.js for DOM emulation.
+* [Jsdom :tada:](https://github.com/jsdom/jsdom) - DOM implementation in Node.js to emulate real browsers.
 * [Postman](https://www.getpostman.com) - API requests and development tool with automation options.
+* [Spectron](https://electronjs.org/spectron) - Test Electron apps using webdriver.
 
 ## Articles
 
