@@ -38,6 +38,7 @@ Browser automation is the act of executing actions automatically in a web browse
   * [Selenium-python :tada::no_entry_sign:](https://selenium-python.readthedocs.io) - Selenium bindings for Python.
 * [SlimerJS :tada:](https://slimerjs.org) - Scriptable browser built on top of Gecko.
 * [Splinter :tada:](https://splinter.readthedocs.io/en/latest/index.html) - Python abstraction of existing browser automation tools with a high-level API for testing.
+* [TrifleJS :tada::no_entry_sign:](http://triflejs.org) - Headless Internet Explorer automation. Built with .NET and JavaScript.
 * [WebdriverIO :tada:](http://webdriver.io) - Webdriver bindings to Node.js that lets you control a browser.
 * [Wendigo :tada:](https://github.com/angrykoala/wendigo) - Test-oriented automation tool built on top of Puppeteer.
 * [ZombieJs :tada::no_entry_sign:](http://zombie.js.org) - Headless testing in Node.js.
