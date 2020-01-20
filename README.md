@@ -23,6 +23,7 @@ Browser automation is the act of executing actions automatically in a web browse
 * [CodeceptJS :tada:](https://github.com/Codeception/CodeceptJS) - BDD style tests with support for multiple headless browsers.
 * [Cypress :moneybag::tada:](https://www.cypress.io) - E2E testing for JavaScript through a browser.
 * [Endtest :moneybag:](https://endtest.io) - Cloud-based codeless automated testing.
+* [Erik :tada:](https://github.com/phimage/Erik) - Headless browser for functional tests based on WebKit and [Kanna](https://github.com/tid-kijyun/Kanna).
 * [FrontendRobot :moneybag:](https://frontendrobot.com) - Codeless testing on the web.
 * [NightmareJs :tada::no_entry_sign:](https://github.com/segmentio/nightmare) - High-level browser automation built on top of Electron.
 * [QAWolf :tada:](https://docs.qawolf.com) - Create Puppeteer tests by recording actions .
