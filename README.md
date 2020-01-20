@@ -27,6 +27,7 @@ Browser automation is the act of executing actions automatically in a web browse
 * [Erik :tada:](https://github.com/phimage/Erik) - Headless browser for functional tests based on WebKit and [Kanna](https://github.com/tid-kijyun/Kanna).
 * [FrontendRobot :moneybag:](https://frontendrobot.com) - Codeless testing on the web.
 * [Ghost.py :tada::no_entry_sign:](https://github.com/jeanphix/Ghost.py) - Webkit based scriptable web browser for python.
+* [Mechanize](https://mechanize.readthedocs.io/en/latest) - Programmatic web browser emulation in Python.
 * [NightmareJs :tada::no_entry_sign:](https://github.com/segmentio/nightmare) - High-level browser automation built on top of Electron.
 * [QAWolf :tada:](https://docs.qawolf.com) - Create Puppeteer tests by recording actions .
 * [PhantomBuster :moneybag:](https://phantombuster.com) - Automate webscraping and actions without coding.
