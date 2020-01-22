@@ -39,7 +39,7 @@ Browser automation is the act of executing actions automatically in a web browse
   * [Puppeteer-Firefox :tada:](https://github.com/puppeteer/puppeteer/tree/master/experimental/puppeteer-firefox) - Experimental support for Firefox using Puppeteer.
   * [Puppeteer-Extra :tada:](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra) - Plugin support for Puppeteer and several plugins including stealh, recaptcha and adblocker.
   * [Puppeteer-Recorder :tada:](https://checklyhq.com/docs/puppeteer-recorder) - Chrome extension to record interactions and generate Puppeteer scripts.
-  * [Pyppeteer :tada::no_entry_sign:](https://github.com/miyakogi/pyppeteer) - Unofficial port of Puppeteer to Python.
+  * [Pyppeteer :tada:](https://github.com/miyakogi/pyppeteer) - Unofficial port of Puppeteer to Python.
 * [Requestium :tada::no_entry_sign:](https://github.com/tryolabs/requestium) - Use requests and selenium seamlessly in Python.
 * [Robobrowser :tada::no_entry_sign:](https://robobrowser.readthedocs.io/en/latest) - Standalone Python library for web browsing.
 * [Selenium :tada:](https://www.seleniumhq.org) - Suite to automate multiple browsers in different platforms.
