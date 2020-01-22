@@ -63,7 +63,7 @@ Browser automation is the act of executing actions automatically in a web browse
 * [Node-crawler :tada:](http://nodecrawler.org) - Web Crawler/Spider for Node.js using server-side DOM.
 * [Postman](https://www.getpostman.com) - API requests and development tool with automation options.
 * [Spectron :tada:](https://electronjs.org/spectron) - Test Electron apps using webdriver.
-* [X-Ray :tada::no_entry_sign:](https://github.com/matthewmueller/x-ray) - Web Scraper with composable API and extra drivers.
+* [X-Ray :tada:](https://github.com/matthewmueller/x-ray) - Web Scraper with composable API and extra drivers.
 
 ## Articles
 
