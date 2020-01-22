@@ -54,7 +54,7 @@ Browser automation is the act of executing actions automatically in a web browse
 * [WebdriverIO :tada:](http://webdriver.io) - Webdriver bindings to Node.js that lets you control a browser.
 * [Webparsy :tada:](https://github.com/joseconstela/webparsy) - Web scraping library and CLI using Puppeteer and YAML.
 * [Wendigo :tada:](https://github.com/angrykoala/wendigo) - Test-oriented automation tool built on top of Puppeteer.
-* [ZombieJs :tada::no_entry_sign:](http://zombie.js.org) - Headless testing in Node.js.
+* [Zombie :tada::no_entry_sign:](http://zombie.js.org) - Headless testing in Node.js.
 
 ### Related
 
