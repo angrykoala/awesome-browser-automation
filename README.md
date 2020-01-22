@@ -30,7 +30,7 @@ Browser automation is the act of executing actions automatically in a web browse
 * [Ghost.py :tada::no_entry_sign:](https://github.com/jeanphix/Ghost.py) - Webkit based scriptable web browser for python.
 * [Mechanize :tada:](https://mechanize.readthedocs.io/en/latest) - Programmatic web browser emulation in Python.
 * [Mink :tada::no_entry_sign:](http://mink.behat.org/en/latest) - PHP web browser emulation with support for multiple drivers.
-* [NightmareJs :tada::no_entry_sign:](https://github.com/segmentio/nightmare) - High-level browser automation built on top of Electron.
+* [Nightmare :tada::no_entry_sign:](https://github.com/segmentio/nightmare) - High-level browser automation built on top of Electron.
 * [QAWolf :tada:](https://docs.qawolf.com) - Create Puppeteer tests by recording actions .
 * [PhantomBuster :moneybag:](https://phantombuster.com) - Automate webscraping and actions without coding.
 * [PhantomJs :tada::no_entry_sign:](https://github.com/ariya/phantomjs) - Headless browser for Node.js.
