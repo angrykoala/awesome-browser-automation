@@ -33,6 +33,7 @@ Browser automation is the act of executing actions automatically in a web browse
 * [QAWolf :tada:](https://docs.qawolf.com) - Create Puppeteer tests by recording actions .
 * [PhantomBuster :moneybag:](https://phantombuster.com) - Automate webscraping and actions without coding.
 * [PhantomJs :tada::no_entry_sign:](https://github.com/ariya/phantomjs) - Headless browser for Node.js.
+* [Playwright :tada:](https://github.com/microsoft/playwright) - Cross-browser web automation platform for Node.js.
 * [Puppeteer :tada:](https://github.com/GoogleChrome/puppeteer) - High level API in Node.js to control Chrome.
   * [Browserless :tada:](https://browserless.js.org) - Complementary library for Puppeteer with sensible defaults, adblocker and pooling.
   * [Puppeteer-Firefox :tada:](https://github.com/puppeteer/puppeteer/tree/master/experimental/puppeteer-firefox) - Experimental support for Firefox using Puppeteer.
