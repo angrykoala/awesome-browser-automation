@@ -65,7 +65,9 @@ Browser automation is the act of executing actions automatically in a web browse
 ## Articles
 
 * [Cucumber Browser Automation](https://cucumber.io/docs/guides/browser-automation) - Guide for [BDD](https://en.wikipedia.org/wiki/Behavior-driven_development) testing using Selenium with Cucumber.
+* [Guide to Web Automation](https://hackernoon.com/guide-to-web-automation-889557804453) - Guide covering different tools and techniques for web automation.
 * [Martin Fowler - PageObject](https://martinfowler.com/bliki/PageObject.html) - An article describing the basic concepts of page object pattern.
+* [Modern Web Automation With Python and Selenium](https://realpython.com/modern-web-automation-with-python-and-selenium) - Tutorial for getting started with Selenium in Python.
 
 ## Resources
 
