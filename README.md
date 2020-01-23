@@ -23,7 +23,6 @@ Browser automation is the act of executing actions automatically in a web browse
 * [Codeception :tada:](https://github.com/codeception/codeception) - PHP end-to-end testing with BDD style.
 * [CodeceptJS :tada:](https://github.com/Codeception/CodeceptJS) - BDD style tests with support for multiple headless browsers.
 * [Cypress :moneybag::tada:](https://www.cypress.io) - E2E testing for JavaScript through a browser.
-* [DalekJS :tada::no_entry_sign:](http://dalekjs.com) - Cross-browser automation with JavaScript.
 * [Endtest :moneybag:](https://endtest.io) - Cloud-based codeless automated testing.
 * [Erik :tada:](https://github.com/phimage/Erik) - Headless browser for functional tests in Swift, based on WebKit and [Kanna](https://github.com/tid-kijyun/Kanna).
 * [FrontendRobot :moneybag:](https://frontendrobot.com) - Codeless testing on the web.
@@ -44,12 +43,10 @@ Browser automation is the act of executing actions automatically in a web browse
 * [Robobrowser :tada::no_entry_sign:](https://robobrowser.readthedocs.io/en/latest) - Standalone Python library for web browsing.
 * [Selenium :tada:](https://www.seleniumhq.org) - Suite to automate multiple browsers in different platforms.
   * [PHP-Webdriver :tada:](https://github.com/php-webdriver/php-webdriver) - PHP Client for Selenium/WebDriver.
-  * [Selenium-python :tada::no_entry_sign:](https://selenium-python.readthedocs.io) - Selenium bindings for Python.
-* [SimpleBrowser :tada::no_entry_sign:](https://github.com/SimpleBrowserDotNet/SimpleBrowser) - Browser automation engine build on .NET.
+* [SimpleBrowser :tada:](https://github.com/SimpleBrowserDotNet/SimpleBrowser) - Browser automation engine build on .NET.
 * [SlimerJS :tada:](https://slimerjs.org) - Scriptable browser built on top of Gecko.
 * [Splinter :tada:](https://splinter.readthedocs.io/en/latest/index.html) - Python abstraction of existing browser automation tools with a high-level API for testing.
 * [TestCafe :tada:](https://devexpress.github.io/testcafe) - Full end-to-end testing environment supporting multiple browsers.
-* [TrifleJS :tada::no_entry_sign:](http://triflejs.org) - Headless Internet Explorer automation. Built with .NET and JavaScript.
 * [Watir :tada:](http://watir.com) - Ruby library for automating tests powered by Selenium.
 * [WebdriverIO :tada:](http://webdriver.io) - Webdriver bindings to Node.js that lets you control a browser.
 * [Webparsy :tada:](https://github.com/joseconstela/webparsy) - Web scraping library and CLI using Puppeteer and YAML.
