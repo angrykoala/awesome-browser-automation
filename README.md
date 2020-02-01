@@ -38,7 +38,6 @@ Browser automation is the act of executing actions automatically in a web browse
   * [Puppeteer-Extra](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra) - Plugin support for Puppeteer and several plugins including reCAPTCHA and adblocker.
   * [Puppeteer-Recorder](https://checklyhq.com/docs/puppeteer-recorder) - Chrome extension to record interactions and generate Puppeteer scripts.
   * [Pyppeteer](https://github.com/miyakogi/pyppeteer) - Unofficial port of Puppeteer to Python.
-* [Robobrowser :no_entry_sign:](https://robobrowser.readthedocs.io/en/latest) - Standalone Python library for web browsing.
 * [Selenium](https://www.seleniumhq.org) - Suite to automate multiple browsers in different platforms.
   * [PHP-Webdriver](https://github.com/php-webdriver/php-webdriver) - PHP Client for Selenium/WebDriver.
 * [SimpleBrowser](https://github.com/SimpleBrowserDotNet/SimpleBrowser) - Browser automation engine build on .NET.
