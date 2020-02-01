@@ -29,13 +29,13 @@ Browser automation is the act of executing actions automatically in a web browse
 * [Mechanize](https://mechanize.readthedocs.io/en/latest) - Programmatic web browser emulation in Python.
 * [Nightmare :no_entry_sign:](https://github.com/segmentio/nightmare) - High-level browser automation built on top of Electron.
 * [QAWolf](https://docs.qawolf.com) - Create Puppeteer tests by recording actions .
-* [PhantomBuster :moneybag::lock:](https://phantombuster.com) - Automate webscraping and actions without coding.
-* [PhantomJs :no_entry_sign:](https://github.com/ariya/phantomjs) - Headless browser for Node.js.
+* [PhantomBuster :moneybag::lock:](https://phantombuster.com) - Automate web scraping and actions without coding.
+* [PhantomJS :no_entry_sign:](https://github.com/ariya/phantomjs) - Headless browser for Node.js.
 * [Playwright](https://github.com/microsoft/playwright) - Cross-browser web automation platform for Node.js.
 * [Puppeteer](https://github.com/GoogleChrome/puppeteer) - High level API in Node.js to control Chrome.
   * [Browserless](https://browserless.js.org) - Complementary library for Puppeteer with sensible defaults, adblocker and pooling.
   * [Puppeteer-Firefox](https://github.com/puppeteer/puppeteer/tree/master/experimental/puppeteer-firefox) - Experimental support for Firefox using Puppeteer.
-  * [Puppeteer-Extra](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra) - Plugin support for Puppeteer and several plugins including stealh, recaptcha and adblocker.
+  * [Puppeteer-Extra](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra) - Plugin support for Puppeteer and several plugins including reCAPTCHA and adblocker.
   * [Puppeteer-Recorder](https://checklyhq.com/docs/puppeteer-recorder) - Chrome extension to record interactions and generate Puppeteer scripts.
   * [Pyppeteer](https://github.com/miyakogi/pyppeteer) - Unofficial port of Puppeteer to Python.
 * [Robobrowser :no_entry_sign:](https://robobrowser.readthedocs.io/en/latest) - Standalone Python library for web browsing.
@@ -47,17 +47,17 @@ Browser automation is the act of executing actions automatically in a web browse
 * [TestCafe](https://devexpress.github.io/testcafe) - Full end-to-end testing environment supporting multiple browsers.
 * [Watir](http://watir.com) - Ruby library for automating tests powered by Selenium.
 * [WebdriverIO](http://webdriver.io) - Webdriver bindings to Node.js that lets you control a browser.
-* [Webparsy](https://github.com/joseconstela/webparsy) - Web scraping library and CLI using Puppeteer and YAML.
+* [WebParsy](https://github.com/joseconstela/webparsy) - Web scraping library and CLI using Puppeteer and YAML.
 * [Wendigo](https://github.com/angrykoala/wendigo) - Test-oriented automation tool built on top of Puppeteer.
 * [Zombie :no_entry_sign:](http://zombie.js.org) - Headless testing in Node.js.
 
 ### Related
 
-* [Cheerio](https://github.com/cheeriojs/cheerio) - JQuery implementation in Node.js for DOM emulation.
-* [Jsdom](https://github.com/jsdom/jsdom) - DOM implementation in Node.js to emulate real browsers.
+* [Cheerio](https://github.com/cheeriojs/cheerio) - jQuery implementation in Node.js for DOM emulation.
+* [jsdom](https://github.com/jsdom/jsdom) - DOM implementation in Node.js to emulate real browsers.
 * [Node-crawler](http://nodecrawler.org) - Web Crawler/Spider for Node.js using server-side DOM.
 * [Postman :lock:](https://www.getpostman.com) - API requests and development tool with automation options.
-* [Spectron](https://electronjs.org/spectron) - Test Electron apps using webdriver.
+* [Spectron](https://electronjs.org/spectron) - Test Electron apps using WebDriver.
 * [X-Ray](https://github.com/matthewmueller/x-ray) - Web Scraper with composable API and extra drivers.
 
 ## Articles
