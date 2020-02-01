@@ -14,51 +14,51 @@ Browser automation is the act of executing actions automatically in a web browse
 
 ## Tools
 
-:tada: - Open Source  
+:lock: - Private  
 :moneybag: - Paid  
-:no_entry_sign: - Not Maintained
+:no_entry_sign: - Not Maintained  
 
-* [Capybara :tada:](https://github.com/teamcapybara/capybara) - Driver-agnostic tool and DSL to write automation tests in Ruby.
-* [Chromedp :tada:](https://github.com/chromedp/chromedp) - Browser automation through Chrome DevTools Protocol fully implemented in Go.
-* [Codeception :tada:](https://github.com/codeception/codeception) - PHP end-to-end testing with BDD style.
-* [CodeceptJS :tada:](https://github.com/Codeception/CodeceptJS) - BDD style tests with support for multiple headless browsers.
-* [Cypress :moneybag::tada:](https://www.cypress.io) - E2E testing for JavaScript through a browser.
-* [Endtest :moneybag:](https://endtest.io) - Cloud-based codeless automated testing.
-* [Erik :tada:](https://github.com/phimage/Erik) - Headless browser for functional tests in Swift, based on WebKit and [Kanna](https://github.com/tid-kijyun/Kanna).
-* [FrontendRobot :moneybag:](https://frontendrobot.com) - Codeless testing on the web.
-* [Mechanize :tada:](https://mechanize.readthedocs.io/en/latest) - Programmatic web browser emulation in Python.
-* [Nightmare :tada::no_entry_sign:](https://github.com/segmentio/nightmare) - High-level browser automation built on top of Electron.
-* [QAWolf :tada:](https://docs.qawolf.com) - Create Puppeteer tests by recording actions .
-* [PhantomBuster :moneybag:](https://phantombuster.com) - Automate webscraping and actions without coding.
-* [PhantomJs :tada::no_entry_sign:](https://github.com/ariya/phantomjs) - Headless browser for Node.js.
-* [Playwright :tada:](https://github.com/microsoft/playwright) - Cross-browser web automation platform for Node.js.
-* [Puppeteer :tada:](https://github.com/GoogleChrome/puppeteer) - High level API in Node.js to control Chrome.
-  * [Browserless :tada:](https://browserless.js.org) - Complementary library for Puppeteer with sensible defaults, adblocker and pooling.
-  * [Puppeteer-Firefox :tada:](https://github.com/puppeteer/puppeteer/tree/master/experimental/puppeteer-firefox) - Experimental support for Firefox using Puppeteer.
-  * [Puppeteer-Extra :tada:](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra) - Plugin support for Puppeteer and several plugins including stealh, recaptcha and adblocker.
-  * [Puppeteer-Recorder :tada:](https://checklyhq.com/docs/puppeteer-recorder) - Chrome extension to record interactions and generate Puppeteer scripts.
-  * [Pyppeteer :tada:](https://github.com/miyakogi/pyppeteer) - Unofficial port of Puppeteer to Python.
-* [Robobrowser :tada::no_entry_sign:](https://robobrowser.readthedocs.io/en/latest) - Standalone Python library for web browsing.
-* [Selenium :tada:](https://www.seleniumhq.org) - Suite to automate multiple browsers in different platforms.
-  * [PHP-Webdriver :tada:](https://github.com/php-webdriver/php-webdriver) - PHP Client for Selenium/WebDriver.
-* [SimpleBrowser :tada:](https://github.com/SimpleBrowserDotNet/SimpleBrowser) - Browser automation engine build on .NET.
-* [SlimerJS :tada:](https://slimerjs.org) - Scriptable browser built on top of Gecko.
-* [Splinter :tada:](https://splinter.readthedocs.io/en/latest/index.html) - Python abstraction of existing browser automation tools with a high-level API for testing.
-* [TestCafe :tada:](https://devexpress.github.io/testcafe) - Full end-to-end testing environment supporting multiple browsers.
-* [Watir :tada:](http://watir.com) - Ruby library for automating tests powered by Selenium.
-* [WebdriverIO :tada:](http://webdriver.io) - Webdriver bindings to Node.js that lets you control a browser.
-* [Webparsy :tada:](https://github.com/joseconstela/webparsy) - Web scraping library and CLI using Puppeteer and YAML.
-* [Wendigo :tada:](https://github.com/angrykoala/wendigo) - Test-oriented automation tool built on top of Puppeteer.
-* [Zombie :tada::no_entry_sign:](http://zombie.js.org) - Headless testing in Node.js.
+* [Capybara](https://github.com/teamcapybara/capybara) - Driver-agnostic tool and DSL to write automation tests in Ruby.
+* [Chromedp](https://github.com/chromedp/chromedp) - Browser automation through Chrome DevTools Protocol fully implemented in Go.
+* [Codeception](https://github.com/codeception/codeception) - PHP end-to-end testing with BDD style.
+* [CodeceptJS](https://github.com/Codeception/CodeceptJS) - BDD style tests with support for multiple headless browsers.
+* [Cypress :moneybag:](https://www.cypress.io) - E2E testing for JavaScript through a browser.
+* [Endtest :moneybag::lock:](https://endtest.io) - Cloud-based codeless automated testing.
+* [Erik](https://github.com/phimage/Erik) - Headless browser for functional tests in Swift, based on WebKit and [Kanna](https://github.com/tid-kijyun/Kanna).
+* [FrontendRobot :moneybag::lock:](https://frontendrobot.com) - Codeless testing on the web.
+* [Mechanize](https://mechanize.readthedocs.io/en/latest) - Programmatic web browser emulation in Python.
+* [Nightmare :no_entry_sign:](https://github.com/segmentio/nightmare) - High-level browser automation built on top of Electron.
+* [QAWolf](https://docs.qawolf.com) - Create Puppeteer tests by recording actions .
+* [PhantomBuster :moneybag::lock:](https://phantombuster.com) - Automate webscraping and actions without coding.
+* [PhantomJs :no_entry_sign:](https://github.com/ariya/phantomjs) - Headless browser for Node.js.
+* [Playwright](https://github.com/microsoft/playwright) - Cross-browser web automation platform for Node.js.
+* [Puppeteer](https://github.com/GoogleChrome/puppeteer) - High level API in Node.js to control Chrome.
+  * [Browserless](https://browserless.js.org) - Complementary library for Puppeteer with sensible defaults, adblocker and pooling.
+  * [Puppeteer-Firefox](https://github.com/puppeteer/puppeteer/tree/master/experimental/puppeteer-firefox) - Experimental support for Firefox using Puppeteer.
+  * [Puppeteer-Extra](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra) - Plugin support for Puppeteer and several plugins including stealh, recaptcha and adblocker.
+  * [Puppeteer-Recorder](https://checklyhq.com/docs/puppeteer-recorder) - Chrome extension to record interactions and generate Puppeteer scripts.
+  * [Pyppeteer](https://github.com/miyakogi/pyppeteer) - Unofficial port of Puppeteer to Python.
+* [Robobrowser :no_entry_sign:](https://robobrowser.readthedocs.io/en/latest) - Standalone Python library for web browsing.
+* [Selenium](https://www.seleniumhq.org) - Suite to automate multiple browsers in different platforms.
+  * [PHP-Webdriver](https://github.com/php-webdriver/php-webdriver) - PHP Client for Selenium/WebDriver.
+* [SimpleBrowser](https://github.com/SimpleBrowserDotNet/SimpleBrowser) - Browser automation engine build on .NET.
+* [SlimerJS](https://slimerjs.org) - Scriptable browser built on top of Gecko.
+* [Splinter](https://splinter.readthedocs.io/en/latest/index.html) - Python abstraction of existing browser automation tools with a high-level API for testing.
+* [TestCafe](https://devexpress.github.io/testcafe) - Full end-to-end testing environment supporting multiple browsers.
+* [Watir](http://watir.com) - Ruby library for automating tests powered by Selenium.
+* [WebdriverIO](http://webdriver.io) - Webdriver bindings to Node.js that lets you control a browser.
+* [Webparsy](https://github.com/joseconstela/webparsy) - Web scraping library and CLI using Puppeteer and YAML.
+* [Wendigo](https://github.com/angrykoala/wendigo) - Test-oriented automation tool built on top of Puppeteer.
+* [Zombie :no_entry_sign:](http://zombie.js.org) - Headless testing in Node.js.
 
 ### Related
 
-* [Cheerio :tada:](https://github.com/cheeriojs/cheerio) - JQuery implementation in Node.js for DOM emulation.
-* [Jsdom :tada:](https://github.com/jsdom/jsdom) - DOM implementation in Node.js to emulate real browsers.
-* [Node-crawler :tada:](http://nodecrawler.org) - Web Crawler/Spider for Node.js using server-side DOM.
-* [Postman](https://www.getpostman.com) - API requests and development tool with automation options.
-* [Spectron :tada:](https://electronjs.org/spectron) - Test Electron apps using webdriver.
-* [X-Ray :tada:](https://github.com/matthewmueller/x-ray) - Web Scraper with composable API and extra drivers.
+* [Cheerio](https://github.com/cheeriojs/cheerio) - JQuery implementation in Node.js for DOM emulation.
+* [Jsdom](https://github.com/jsdom/jsdom) - DOM implementation in Node.js to emulate real browsers.
+* [Node-crawler](http://nodecrawler.org) - Web Crawler/Spider for Node.js using server-side DOM.
+* [Postman :lock:](https://www.getpostman.com) - API requests and development tool with automation options.
+* [Spectron](https://electronjs.org/spectron) - Test Electron apps using webdriver.
+* [X-Ray](https://github.com/matthewmueller/x-ray) - Web Scraper with composable API and extra drivers.
 
 ## Articles
 
