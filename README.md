@@ -14,9 +14,9 @@ Browser automation is the act of executing actions automatically in a web browse
 
 ## Tools
 
-:lock: - Private
-:moneybag: - Paid
-:no_entry_sign: - Not Maintained
+:lock: - Private  
+:moneybag: - Paid  
+:no_entry_sign: - Not Maintained  
 
 * [Capybara](https://github.com/teamcapybara/capybara) - Driver-agnostic tool and DSL to write automation tests in Ruby.
 * [Chromedp](https://github.com/chromedp/chromedp) - Browser automation through Chrome DevTools Protocol fully implemented in Go.
