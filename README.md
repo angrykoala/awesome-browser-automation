@@ -14,9 +14,9 @@ Browser automation is the act of executing actions automatically in a web browse
 
 ## Tools
 
-:lock: - Private  
-:moneybag: - Paid  
-:no_entry_sign: - Not Maintained  
+:lock: - Private
+:moneybag: - Paid
+:no_entry_sign: - Not Maintained
 
 * [Capybara](https://github.com/teamcapybara/capybara) - Driver-agnostic tool and DSL to write automation tests in Ruby.
 * [Chromedp](https://github.com/chromedp/chromedp) - Browser automation through Chrome DevTools Protocol fully implemented in Go.
@@ -36,7 +36,7 @@ Browser automation is the act of executing actions automatically in a web browse
   * [Browserless](https://browserless.js.org) - Complementary library for Puppeteer with sensible defaults, adblocker and pooling.
   * [Puppeteer-Firefox](https://github.com/puppeteer/puppeteer/tree/master/experimental/puppeteer-firefox) - Experimental support for Firefox using Puppeteer.
   * [Puppeteer-Extra](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra) - Plugin support for Puppeteer and several plugins including reCAPTCHA and adblocker.
-  * [Puppeteer-Recorder](https://www.checklyhq.com/docs/headless-recorder) - Chrome extension to record interactions and generate Puppeteer scripts.
+  * [Headless Recorder](https://www.checklyhq.com/docs/headless-recorder) - Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.
   * [Pyppeteer](https://github.com/miyakogi/pyppeteer) - Unofficial port of Puppeteer to Python.
 * [Selenium](https://www.seleniumhq.org) - Suite to automate multiple browsers in different platforms.
   * [PHP-Webdriver](https://github.com/php-webdriver/php-webdriver) - PHP Client for Selenium/WebDriver.
