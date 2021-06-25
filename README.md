@@ -18,6 +18,7 @@ Browser automation is the act of executing actions automatically in a web browse
 :moneybag: - Paid  
 :no_entry_sign: - Not Maintained  
 * [Axiom :moneybag::lock:](https://axiom.ai) - No code browser automation tool, like Zapier.
+* [Browse AI](https://BrowseAI.com) - Extract and monitor data from any website with no code. Cloud-based web RPA.
 * [Capybara](https://github.com/teamcapybara/capybara) - Driver-agnostic tool and DSL to write automation tests in Ruby.
 * [Chromedp](https://github.com/chromedp/chromedp) - Browser automation through Chrome DevTools Protocol fully implemented in Go.
 * [Codeception](https://github.com/codeception/codeception) - PHP end-to-end testing with BDD style.
