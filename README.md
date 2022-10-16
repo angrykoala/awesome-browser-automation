@@ -2,7 +2,7 @@
 
 Curated list of awesome browser automation tools and resources.
 
-Browser automation is the act of executing actions automatically in a web browser for testing, [web scrapping](https://en.wikipedia.org/wiki/Web_scraping) or to perform repetitive tasks faster. Specialized software is usually required to do this. This software may control an external browser or be a browser itself.
+Browser automation is the act of executing actions automatically in a web browser for testing, [web scraping](https://en.wikipedia.org/wiki/Web_scraping) or to perform repetitive tasks faster. Specialized software is usually required to do this. This software may control an external browser or be a browser itself.
 
 ## Contents
 
@@ -18,6 +18,7 @@ Browser automation is the act of executing actions automatically in a web browse
 :moneybag: - Paid  
 :no_entry_sign: - Not Maintained  
 * [Axiom :moneybag::lock:](https://axiom.ai) - No code browser automation tool, like Zapier.
+* [Browserflow :moneybag::lock:](https://browserflow.app) - Chrome extension to automate your local browser or in the cloud.
 * [Capybara](https://github.com/teamcapybara/capybara) - Driver-agnostic tool and DSL to write automation tests in Ruby.
 * [Chromedp](https://github.com/chromedp/chromedp) - Browser automation through Chrome DevTools Protocol fully implemented in Go.
 * [Codeception](https://github.com/codeception/codeception) - PHP end-to-end testing with BDD style.
