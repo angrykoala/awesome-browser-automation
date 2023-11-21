@@ -1,6 +1,6 @@
 # Awesome Browser Automation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Curated list of awesome browser automation tools and resources.
+A curated list of awesome browser automation tools and resources.
 
 Browser automation is the act of executing actions automatically in a web browser for testing, [web scraping](https://en.wikipedia.org/wiki/Web_scraping) or to perform repetitive tasks faster. Specialized software is usually required to do this. This software may control an external browser or be a browser itself.
 
@@ -13,26 +13,23 @@ Browser automation is the act of executing actions automatically in a web browse
 
 
 ## Tools
-
-:lock: - Private  
-:moneybag: - Paid  
-:no_entry_sign: - Not Maintained  
-* [Axiom :moneybag::lock:](https://axiom.ai) - No code browser automation tool, like Zapier.
-* [Browserflow :moneybag::lock:](https://browserflow.app) - Chrome extension to automate your local browser or in the cloud.
+ 
+* [Axiom](https://axiom.ai) - No code browser automation tool, like Zapier.
+* [Browserflow](https://browserflow.app) - Chrome extension to automate your local browser or in the cloud.
 * [Capybara](https://github.com/teamcapybara/capybara) - Driver-agnostic tool and DSL to write automation tests in Ruby.
 * [Chromedp](https://github.com/chromedp/chromedp) - Browser automation through Chrome DevTools Protocol fully implemented in Go.
 * [Codeception](https://github.com/codeception/codeception) - PHP end-to-end testing with BDD style.
 * [CodeceptJS](https://github.com/Codeception/CodeceptJS) - BDD style tests with support for multiple headless browsers.
-* [Cypress :moneybag:](https://www.cypress.io) - E2E testing for JavaScript through a browser.
-* [Endtest :moneybag::lock:](https://endtest.io) - Cloud-based codeless automated testing.
+* [Cypress](https://www.cypress.io) - E2E testing for JavaScript through a browser.
+* [Endtest](https://endtest.io) - Cloud-based codeless automated testing.
 * [Erik](https://github.com/phimage/Erik) - Headless browser for functional tests in Swift, based on WebKit and [Kanna](https://github.com/tid-kijyun/Kanna).
 * [Katalon Recorder](https://chrome.google.com/webstore/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid) - A solution to kick-start test automation for small companies & start-ups.
-* [FrontendRobot :moneybag::lock:](https://frontendrobot.com) - Codeless testing on the web.
+* [FrontendRobot](https://frontendrobot.com) - Codeless testing on the web.
 * [Mechanize](https://mechanize.readthedocs.io/en/latest) - Programmatic web browser emulation in Python.
-* [Nightmare :no_entry_sign:](https://github.com/segmentio/nightmare) - High-level browser automation built on top of Electron.
+* [Nightmare](https://github.com/segmentio/nightmare) - High-level browser automation built on top of Electron.
 * [QAWolf](https://docs.qawolf.com) - Create Puppeteer tests by recording actions .
-* [PhantomBuster :moneybag::lock:](https://phantombuster.com) - Automate web scraping and actions without coding.
-* [PhantomJS :no_entry_sign:](https://github.com/ariya/phantomjs) - Headless browser for Node.js.
+* [PhantomBuster](https://phantombuster.com) - Automate web scraping and actions without coding.
+* [PhantomJS](https://github.com/ariya/phantomjs) - Headless browser for Node.js.
 * [Playwright](https://github.com/microsoft/playwright) - Cross-browser web automation platform for Node.js.
 * [Puppeteer](https://github.com/GoogleChrome/puppeteer) - High level API in Node.js to control Chrome.
   * [Browserless](https://browserless.js.org) - Complementary library for Puppeteer with sensible defaults, adblocker and pooling.
@@ -49,14 +46,13 @@ Browser automation is the act of executing actions automatically in a web browse
 * [WebdriverIO](http://webdriver.io) - Webdriver bindings to Node.js that lets you control a browser.
 * [WebParsy](https://github.com/joseconstela/webparsy) - Web scraping library and CLI using Puppeteer and YAML.
 * [Wendigo](https://github.com/angrykoala/wendigo) - Test-oriented automation tool built on top of Puppeteer.
-* [Zombie :no_entry_sign:](http://zombie.js.org) - Headless testing in Node.js.
 
-### Related
+### Related tools
 
 * [Cheerio](https://github.com/cheeriojs/cheerio) - jQuery implementation in Node.js for DOM emulation.
 * [jsdom](https://github.com/jsdom/jsdom) - DOM implementation in Node.js to emulate real browsers.
 * [Node-crawler](http://nodecrawler.org) - Web Crawler/Spider for Node.js using server-side DOM.
-* [Postman :lock:](https://www.getpostman.com) - API requests and development tool with automation options.
+* [Postman](https://www.getpostman.com) - API requests and development tool with automation options.
 * [Spectron](https://electronjs.org/spectron) - Test Electron apps using WebDriver.
 * [X-Ray](https://github.com/matthewmueller/x-ray) - Web Scraper with composable API and extra drivers.
 
