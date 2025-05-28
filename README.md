@@ -14,6 +14,7 @@ Browser automation is the act of executing actions automatically in a web browse
 
 ## Tools
  
+* [Alumnium](https://alumnium.ai) - Open-source AI-powered test automation library on top of Playwright/Selenium.
 * [Axiom](https://axiom.ai) - No code browser automation tool, like Zapier.
 * [Browserflow](https://browserflow.app) - Chrome extension to automate your local browser or in the cloud.
 * [Capybara](https://github.com/teamcapybara/capybara) - Driver-agnostic tool and DSL to write automation tests in Ruby.
@@ -27,7 +28,7 @@ Browser automation is the act of executing actions automatically in a web browse
 * [FrontendRobot](https://frontendrobot.com) - Codeless testing on the web.
 * [Mechanize](https://mechanize.readthedocs.io/en/latest) - Programmatic web browser emulation in Python.
 * [Nightmare](https://github.com/segmentio/nightmare) - High-level browser automation built on top of Electron.
-* [QAWolf](https://docs.qawolf.com) - Create Puppeteer tests by recording actions .
+* [QAWolf](https://docs.qawolf.com) - Create Puppeteer tests by recording actions.
 * [PhantomBuster](https://phantombuster.com) - Automate web scraping and actions without coding.
 * [PhantomJS](https://github.com/ariya/phantomjs) - Headless browser for Node.js.
 * [Playwright](https://github.com/microsoft/playwright) - Cross-browser web automation platform for Node.js.
