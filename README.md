@@ -58,6 +58,10 @@ Browser automation is the act of executing actions automatically in a web browse
 * [Spectron](https://electronjs.org/spectron) - Test Electron apps using WebDriver.
 * [X-Ray](https://github.com/matthewmueller/x-ray) - Web Scraper with composable API and extra drivers.
 
+### Debugging / Profiling
+
+* [Buglesstack](https://buglesstack.com/) - Debugging platform for browser automation tools.
+
 ## Articles
 
 * [Cucumber Browser Automation](https://cucumber.io/docs/guides/browser-automation) - Guide for [BDD](https://en.wikipedia.org/wiki/Behavior-driven_development) testing using Selenium with Cucumber.
