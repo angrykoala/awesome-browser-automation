@@ -51,6 +51,7 @@ Browser automation is the act of executing actions automatically in a web browse
 
 ### Related tools
 
+* [Buglesstack](https://buglesstack.com/) - Debugging platform for browser automation tools.
 * [Cheerio](https://github.com/cheeriojs/cheerio) - jQuery implementation in Node.js for DOM emulation.
 * [jsdom](https://github.com/jsdom/jsdom) - DOM implementation in Node.js to emulate real browsers.
 * [Node-crawler](http://nodecrawler.org) - Web Crawler/Spider for Node.js using server-side DOM.
