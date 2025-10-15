@@ -1,4 +1,4 @@
-# Awesome Browser Automation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Browser Automation
 
 A curated list of awesome browser automation tools and resources.
 
