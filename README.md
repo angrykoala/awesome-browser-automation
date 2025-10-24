@@ -73,18 +73,3 @@ Browser automation is the act of executing actions automatically in a web browse
 * [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping) - Comprehensive list of tools, programming libraries and web services used in web scraping.
 * [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - Detailed list of multiple headless browsers.
 * [Webdriver Specification](https://www.w3.org/TR/webdriver1) - Standard definition of agents to control a browser.
-
-## Sponsors
-
-
-### [Scrapeless Browser](https://www.scrapeless.com/en/product/scraping-browser?utm_medium=github&utm_campaign=angrykoala)
-
-A cloud-based, Chromium-powered headless browser that runs large-scale concurrent instances, automates web tasks, and handles complex interactions on protected pages—ideal for AI infrastructure, web automation, data scraping, page rendering, and testing.    
-Key Features: Built-in CAPTCHA solver • High concurrency (50–1,000+ instances) • Live view & session recording • Easy integration (Puppeteer, Playwright, Python, Node.js) • Access to 70M+ proxies worldwide 
-
-<p align="center">
-  <img src="media/scrapeless_browser_banner.jpg" width=800/>
-</p>
-
- 
-👉 Learn more: [Scrapeless Scraping Browser Playground](https://app.scrapeless.com/passport/login?utm_medium=github&utm_campaign=angrykoala) | [Documentation](https://docs.scrapeless.com/en/scraping-browser/quickstart/introduction/?utm_medium=github&utm_campaign=angrykoala)
