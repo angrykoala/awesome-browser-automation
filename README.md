@@ -7,6 +7,7 @@ Browser automation is the act of executing actions automatically in a web browse
 ## Contents
 
 * [Tools](#tools)
+  * [MCP](#mcp)
   * [Related](#related)
 * [Articles](#articles)
 * [Resources](#resources)
@@ -49,6 +50,10 @@ Browser automation is the act of executing actions automatically in a web browse
 * [WebdriverIO](http://webdriver.io) - Webdriver bindings to Node.js that lets you control a browser.
 * [WebParsy](https://github.com/joseconstela/webparsy) - Web scraping library and CLI using Puppeteer and YAML.
 * [Wendigo](https://github.com/angrykoala/wendigo) - Test-oriented automation tool built on top of Puppeteer.
+
+### MCP
+
+* [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Provides browser automation capabilities using [Playwright](https://github.com/microsoft/playwright)
 
 ### Related tools
 
