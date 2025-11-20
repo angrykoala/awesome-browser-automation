@@ -8,7 +8,7 @@ Browser automation is the act of executing actions automatically in a web browse
 
 * [Tools](#tools)
   * [MCP](#mcp)
-  * [Related](#related)
+  * [Related tools](#related-tools)
 * [Articles](#articles)
 * [Resources](#resources)
 * [Sponsors](#sponsors)
