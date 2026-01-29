@@ -18,7 +18,7 @@ Browser automation is the act of executing actions automatically in a web browse
  
 * [Alumnium](https://alumnium.ai) - Open-source AI-powered test automation library on top of Playwright/Selenium.
 * [Axiom](https://axiom.ai) - No code browser automation tool, like Zapier.
-* [Browserbase](https://browserbase.com) - AI browser automation platform driven by open source [Stagehand](https://github.com/browserbase/stagehand) library
+* [Browserbase](https://docs.browserbase.com/reference/introduction) - AI browser automation platform driven by open source [Stagehand](https://github.com/browserbase/stagehand) library
 * [Browserflow](https://browserflow.app) - Chrome extension to automate your local browser or in the cloud.
 * [Browser-Use](https://github.com/browser-use/browser-use) - Python library and service to automate browsing using AI agents and Chrome DevTools Protocol.
 * [Capybara](https://github.com/teamcapybara/capybara) - Driver-agnostic tool and DSL to write automation tests in Ruby.
