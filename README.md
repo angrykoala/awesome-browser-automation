@@ -48,6 +48,7 @@ Browser automation is the act of executing actions automatically in a web browse
 * [Skyvern](https://github.com/Skyvern-AI/Skyvern) - Use prompts + AI to automate actions in the browser.
 * [Splinter](https://splinter.readthedocs.io/en/latest/index.html) - Python abstraction of existing browser automation tools with a high-level API for testing.
 * [TestCafe](https://devexpress.github.io/testcafe) - Full end-to-end testing environment supporting multiple browsers.
+* [TestMyInput](https://testmyinput.com) – Free browser-based tools to test keyboard, mouse, mic , webcam, headset, display, gamepad, speaker , joystick & FPS.
 * [Watir](http://watir.com) - Ruby library for automating tests powered by Selenium.
 * [WebdriverIO](http://webdriver.io) - Webdriver bindings to Node.js that lets you control a browser.
 * [WebParsy](https://github.com/joseconstela/webparsy) - Web scraping library and CLI using Puppeteer and YAML.
