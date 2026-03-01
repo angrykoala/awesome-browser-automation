@@ -46,7 +46,9 @@ Browser automation is the act of executing actions automatically in a web browse
   * [PHP-Webdriver](https://github.com/php-webdriver/php-webdriver) - PHP Client for Selenium/WebDriver.
 * [SimpleBrowser](https://github.com/SimpleBrowserDotNet/SimpleBrowser) - Browser automation engine build on .NET.
 * [Skyvern](https://github.com/Skyvern-AI/Skyvern) - Use prompts + AI to automate actions in the browser.
-* [Splinter](https://splinter.readthedocs.io/en/latest/index.html) - Python abstraction of existing browser automation tools with a high-level API for testing.
+
+
+- [Anchor Browser](https://anchorbrowser.io) - Cloud browser infrastructure for AI agents* [Splinter](https://splinter.readthedocs.io/en/latest/index.html) - Python abstraction of existing browser automation tools with a high-level API for testing.
 * [TestCafe](https://devexpress.github.io/testcafe) - Full end-to-end testing environment supporting multiple browsers.
 * [Watir](http://watir.com) - Ruby library for automating tests powered by Selenium.
 * [WebdriverIO](http://webdriver.io) - Webdriver bindings to Node.js that lets you control a browser.
