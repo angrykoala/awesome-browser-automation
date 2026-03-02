@@ -6,7 +6,6 @@ Browser automation is the act of executing actions automatically in a web browse
 
 ## Contents
 
-* [AnchorBrowser](https://anchorbrowser.io) - Cloud browser platform for AI agents. Provides managed, humanized Chromium instances connectable via WebSocket/CDP with built-in proxy rotation, CAPTCHA solving, and anti-bot detection.
 * [Tools](#tools)
   * [MCP](#mcp)
   * [Related tools](#related-tools)
@@ -18,6 +17,7 @@ Browser automation is the act of executing actions automatically in a web browse
 ## Tools
  
 * [Alumnium](https://alumnium.ai) - Open-source AI-powered test automation library on top of Playwright/Selenium.
+* [AnchorBrowser](https://anchorbrowser.io) - Cloud browser platform for AI agents. Provides managed, humanized Chromium instances connectable via WebSocket/CDP with built-in proxy rotation, CAPTCHA solving, and anti-bot detection.
 * [Axiom](https://axiom.ai) - No code browser automation tool, like Zapier.
 * [Browserflow](https://browserflow.app) - Chrome extension to automate your local browser or in the cloud.
 * [Browser-Use](https://github.com/browser-use/browser-use) - Python library and service to automate browsing using AI agents and Chrome DevTools Protocol.
