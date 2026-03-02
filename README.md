@@ -32,6 +32,7 @@ Browser automation is the act of executing actions automatically in a web browse
 * [Mechanize](https://mechanize.readthedocs.io/en/latest) - Programmatic web browser emulation in Python.
 * [Nightmare](https://github.com/segmentio/nightmare) - High-level browser automation built on top of Electron.
 * [Openwork](https://github.com/accomplish-ai/openwork) - MIT-licensed, open alternative to Anthropic's Cowork. Supports multiple LLM providers for launching computer-use agents to automate browser workflows.
+* [PageBolt](https://pagebolt.dev) - Hosted browser automation API for screenshots, PDFs, video recording with AI narration, and multi-step sequences. MCP server integration for Claude Desktop, Cursor, and Windsurf. Free tier: 100 requests/month, no credit card.
 * [QAWolf](https://docs.qawolf.com) - Create Puppeteer tests by recording actions.
 * [PhantomBuster](https://phantombuster.com) - Automate web scraping and actions without coding.
 * [PhantomJS](https://github.com/ariya/phantomjs) - Headless browser for Node.js.
