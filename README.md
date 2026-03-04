@@ -7,16 +7,13 @@ Browser automation is the act of executing actions automatically in a web browse
 ## Contents
 
 * [Tools](#tools)
-  * [MCP](#mcp)
-  * [Related](#related)
+  * [AI](#ai)
+  * [Related tools](#related-tools)
 * [Articles](#articles)
 * [Resources](#resources)
-* [Sponsors](#sponsors)
-
 
 ## Tools
  
-* [Alumnium](https://alumnium.ai) - Open-source AI-powered test automation library on top of Playwright/Selenium.
 * [Axiom](https://axiom.ai) - No code browser automation tool, like Zapier.
 * [Browserflow](https://browserflow.app) - Chrome extension to automate your local browser or in the cloud.
 * [Capybara](https://github.com/teamcapybara/capybara) - Driver-agnostic tool and DSL to write automation tests in Ruby.
@@ -43,17 +40,18 @@ Browser automation is the act of executing actions automatically in a web browse
 * [Selenium](https://www.seleniumhq.org) - Suite to automate multiple browsers in different platforms.
   * [PHP-Webdriver](https://github.com/php-webdriver/php-webdriver) - PHP Client for Selenium/WebDriver.
 * [SimpleBrowser](https://github.com/SimpleBrowserDotNet/SimpleBrowser) - Browser automation engine build on .NET.
-* [Skyvern](https://github.com/Skyvern-AI/Skyvern) - Use prompts + AI to automate actions in the browser.
 * [Splinter](https://splinter.readthedocs.io/en/latest/index.html) - Python abstraction of existing browser automation tools with a high-level API for testing.
 * [TestCafe](https://devexpress.github.io/testcafe) - Full end-to-end testing environment supporting multiple browsers.
 * [Watir](http://watir.com) - Ruby library for automating tests powered by Selenium.
-* [WebdriverIO](http://webdriver.io) - Webdriver bindings to Node.js that lets you control a browser.
+* [WebdriverIO](http://webdriver.io) - WebDriver bindings to Node.js that lets you control a browser.
 * [WebParsy](https://github.com/joseconstela/webparsy) - Web scraping library and CLI using Puppeteer and YAML.
 * [Wendigo](https://github.com/angrykoala/wendigo) - Test-oriented automation tool built on top of Puppeteer.
 
-### MCP
+### AI
 
+* [Alumnium](https://alumnium.ai) - Open-source AI-powered test automation library on top of Playwright/Selenium.
 * [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Provides browser automation capabilities using [Playwright](https://github.com/microsoft/playwright)
+* [Skyvern](https://github.com/Skyvern-AI/Skyvern) - Use prompts + AI to automate actions in the browser.
 
 ### Related tools
 
@@ -77,4 +75,4 @@ Browser automation is the act of executing actions automatically in a web browse
 * [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium#readme) - Curated list of Selenium resources and related tools.
 * [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping) - Comprehensive list of tools, programming libraries and web services used in web scraping.
 * [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - Detailed list of multiple headless browsers.
-* [Webdriver Specification](https://www.w3.org/TR/webdriver1) - Standard definition of agents to control a browser.
+* [WebDriver Specification](https://www.w3.org/TR/webdriver1) - Standard definition of agents to control a browser.
