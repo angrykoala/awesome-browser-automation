@@ -22,9 +22,9 @@ Please ensure your pull request adheres to the following guidelines:
 * Additions of your own tools or resources are welcome, as long as they are awesome, documented, and functional.
 * The link must refer to the original author, documentation or resource of the tool.
 * While not strictly required, software that is currently maintained is preferable.
-* If a tool is not a browser automation tool, but it is somehow related to browser automation and testing, please add it under **related tools**
+* If a tool is not a browser automation tool, but it is somehow related to browser automation and testing, please add it under **Related tools**
 * If a tool is a plugin, or depends on another tool, please add it as an alphabetically ordered sublist item under the mentioned tool using the same format as other items in the list.
-* If relevant, add emojis according to the legend for information about pricing etc...
+* If a tool is primarily focused on AI, or to be used with AI (e.g. Agents, MCP, automation with prompts), please, put it under the **AI** section
 
 ## Articles & Resources
 * Articles and resources must be related to browser automation.
