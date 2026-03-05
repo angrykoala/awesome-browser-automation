@@ -61,6 +61,8 @@ Browser automation is the act of executing actions automatically in a web browse
 * [Node-crawler](https://github.com/bda-research/node-crawler) - Web Crawler/Spider for Node.js using server-side DOM.
 * [Postman](https://www.getpostman.com) - API requests and development tool with automation options.
 * [X-Ray](https://github.com/matthewmueller/x-ray) - Web Scraper with composable API and extra drivers.
+* [TestDino](https://github.com/TestDinoHQ) - Smart test reporting and debugging platform that turns noisy automation runs into clear insights and faster fixes.
+* 
 
 ## Articles
 
