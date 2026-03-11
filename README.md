@@ -18,7 +18,6 @@ Browser automation is the act of executing actions automatically in a web browse
  
 * [Alumnium](https://alumnium.ai) - Open-source AI-powered test automation library on top of Playwright/Selenium.
 * [Axiom](https://axiom.ai) - No code browser automation tool, like Zapier.
-* [Browserbase](https://docs.browserbase.com/reference/introduction) - AI browser automation platform driven by open source [Stagehand](https://github.com/browserbase/stagehand) library
 * [Browserflow](https://browserflow.app) - Chrome extension to automate your local browser or in the cloud.
 * [Browser-Use](https://github.com/browser-use/browser-use) - Python library and service to automate browsing using AI agents and Chrome DevTools Protocol.
 * [Capybara](https://github.com/teamcapybara/capybara) - Driver-agnostic tool and DSL to write automation tests in Ruby.
@@ -47,6 +46,7 @@ Browser automation is the act of executing actions automatically in a web browse
 * [SimpleBrowser](https://github.com/SimpleBrowserDotNet/SimpleBrowser) - Browser automation engine build on .NET.
 * [Skyvern](https://github.com/Skyvern-AI/Skyvern) - Use prompts + AI to automate actions in the browser.
 * [Splinter](https://splinter.readthedocs.io/en/latest/index.html) - Python abstraction of existing browser automation tools with a high-level API for testing.
+* [Stagehand](https://github.com/browserbase/stagehand) - Multi-language AI browser automation library (like playwright) + [Browserbase](https://docs.browserbase.com/reference/introduction)
 * [TestCafe](https://devexpress.github.io/testcafe) - Full end-to-end testing environment supporting multiple browsers.
 * [Watir](http://watir.com) - Ruby library for automating tests powered by Selenium.
 * [WebdriverIO](http://webdriver.io) - Webdriver bindings to Node.js that lets you control a browser.
