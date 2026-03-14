@@ -37,6 +37,7 @@ Browser automation is the act of executing actions automatically in a web browse
   * [Pyppeteer](https://github.com/miyakogi/pyppeteer) - Unofficial port of Puppeteer to Python.
 * [Selenium](https://www.seleniumhq.org) - Suite to automate multiple browsers in different platforms.
   * [PHP-Webdriver](https://github.com/php-webdriver/php-webdriver) - PHP Client for Selenium/WebDriver.
+* [SessionKeeper](https://github.com/vesper-astrena/sessionkeeper) - Python browser session manager that handles CAPTCHA/login for automation, opening a visible browser for human intervention and returning to headless mode.
 * [SimpleBrowser](https://github.com/SimpleBrowserDotNet/SimpleBrowser) - Browser automation engine build on .NET.
 * [Splinter](https://splinter.readthedocs.io/en/latest/index.html) - Python abstraction of existing browser automation tools with a high-level API for testing.
 * [TestCafe](https://devexpress.github.io/testcafe) - Full end-to-end testing environment supporting multiple browsers.
