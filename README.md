@@ -37,6 +37,7 @@ Browser automation is the act of executing actions automatically in a web browse
   * [Pyppeteer](https://github.com/miyakogi/pyppeteer) - Unofficial port of Puppeteer to Python.
 * [Selenium](https://www.seleniumhq.org) - Suite to automate multiple browsers in different platforms.
   * [PHP-Webdriver](https://github.com/php-webdriver/php-webdriver) - PHP Client for Selenium/WebDriver.
+* [SessionKeeper](https://github.com/vesper-astrena/sessionkeeper) - Python browser session manager that handles CAPTCHA/login for automation, opening a visible browser for human intervention and returning to headless mode.
 * [SimpleBrowser](https://github.com/SimpleBrowserDotNet/SimpleBrowser) - Browser automation engine build on .NET.
 * [Splinter](https://splinter.readthedocs.io/en/latest/index.html) - Python abstraction of existing browser automation tools with a high-level API for testing.
 * [TestCafe](https://devexpress.github.io/testcafe) - Full end-to-end testing environment supporting multiple browsers.
@@ -60,6 +61,7 @@ Browser automation is the act of executing actions automatically in a web browse
 * [jsdom](https://github.com/jsdom/jsdom) - DOM implementation in Node.js to emulate real browsers.
 * [Node-crawler](https://github.com/bda-research/node-crawler) - Web Crawler/Spider for Node.js using server-side DOM.
 * [Postman](https://www.getpostman.com) - API requests and development tool with automation options.
+* [SnapForge](https://github.com/vesper-astrena/snapforge) - Self-hosted screenshot & PDF API. Single Python file, powered by Playwright. Supports device emulation, element screenshots, dark mode, HTML-to-image, concurrent browser pool, and API key auth.
 * [X-Ray](https://github.com/matthewmueller/x-ray) - Web Scraper with composable API and extra drivers.
 
 ## Articles
