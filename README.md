@@ -49,6 +49,7 @@ Browser automation is the act of executing actions automatically in a web browse
 
 * [Alumnium](https://alumnium.ai) - Open-source AI-powered test automation library on top of Playwright/Selenium.
 * [Browser-Use](https://github.com/browser-use/browser-use) - Python library and service to automate browsing using AI agents and Chrome DevTools Protocol.
+* [onUI](https://github.com/onllm-dev/onUI) - Open-source browser extension and MCP server for annotation-first UI pair programming with AI agents. Annotate, draw, and capture UI context from any webpage for Claude Code, Cursor, Windsurf, and Copilot.
 * [Openwork](https://github.com/accomplish-ai/openwork) - MIT-licensed, open alternative to Anthropic's Cowork. Supports multiple LLM providers for launching computer-use agents to automate browser workflows.
 * [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Provides browser automation capabilities using [Playwright](https://github.com/microsoft/playwright)
 * [Skyvern](https://github.com/Skyvern-AI/Skyvern) - Use prompts + AI to automate actions in the browser.
