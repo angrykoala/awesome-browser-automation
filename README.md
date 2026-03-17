@@ -52,6 +52,7 @@ Browser automation is the act of executing actions automatically in a web browse
 * [Openwork](https://github.com/accomplish-ai/openwork) - MIT-licensed, open alternative to Anthropic's Cowork. Supports multiple LLM providers for launching computer-use agents to automate browser workflows.
 * [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Provides browser automation capabilities using [Playwright](https://github.com/microsoft/playwright)
 * [Skyvern](https://github.com/Skyvern-AI/Skyvern) - Use prompts + AI to automate actions in the browser.
+* [Wopee.io](https://wopee.io) - Autonomous AI testing agents for web apps — visual regression testing with self-healing and continuous regression coverage.
 
 ### Related tools
 
