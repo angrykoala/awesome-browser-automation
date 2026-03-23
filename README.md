@@ -52,6 +52,7 @@ Browser automation is the act of executing actions automatically in a web browse
 * [Openwork](https://github.com/accomplish-ai/openwork) - MIT-licensed, open alternative to Anthropic's Cowork. Supports multiple LLM providers for launching computer-use agents to automate browser workflows.
 * [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Provides browser automation capabilities using [Playwright](https://github.com/microsoft/playwright)
 * [Skyvern](https://github.com/Skyvern-AI/Skyvern) - Use prompts + AI to automate actions in the browser.
+* [Pagecast](https://github.com/mcpware/pagecast) - MCP server that records any browser page as GIF or video using Playwright and ffmpeg. Designed for AI-driven demo recording and QA evidence capture.
 * [Steel Browser](https://github.com/steel-dev/steel-browser) - Open-source browser sandbox and API for AI agents with session-backed automation, screenshots, PDFs, and anti-bot tooling.
 
 ### Related tools
