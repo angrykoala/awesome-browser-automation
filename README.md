@@ -4,6 +4,7 @@ A curated list of awesome browser automation tools and resources.
 
 Browser automation is the act of executing actions automatically in a web browser for testing, [web scraping](https://en.wikipedia.org/wiki/Web_scraping) or to perform repetitive tasks faster. Specialized software is usually required to do this. This software may control an external browser or be a browser itself.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts with browser automation agents (Puppet Master, Chrome control) for Claude Code. MIT licensed.
 ## Contents
 
 * [Tools](#tools)
