@@ -53,6 +53,7 @@ Browser automation is the act of executing actions automatically in a web browse
 * [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Provides browser automation capabilities using [Playwright](https://github.com/microsoft/playwright)
 * [Skyvern](https://github.com/Skyvern-AI/Skyvern) - Use prompts + AI to automate actions in the browser.
 * [Steel Browser](https://github.com/steel-dev/steel-browser) - Open-source browser sandbox and API for AI agents with session-backed automation, screenshots, PDFs, and anti-bot tooling.
+* [Uni-CLI](https://github.com/olo-dot-io/Uni-CLI) - Universal CLI for AI agents with raw CDP browser automation. 22 browser methods, 13-layer anti-detection stealth, persistent daemon reusing Chrome login sessions. 167 sites, self-repairing YAML adapters. TypeScript, Apache-2.0.
 
 ### Related tools
 
