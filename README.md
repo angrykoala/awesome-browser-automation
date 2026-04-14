@@ -21,7 +21,7 @@ Browser automation is the act of executing actions automatically in a web browse
 * [Codeception](https://github.com/codeception/codeception) - PHP end-to-end testing with BDD style.
 * [CodeceptJS](https://github.com/Codeception/CodeceptJS) - BDD style tests with support for multiple headless browsers.
 * [Cypress](https://www.cypress.io) - E2E testing for JavaScript through a browser.
-* [dig2browser](https://github.com/ZENG3LD/dig2browser) - Stealth browser automation library for Rust with CDP, WebDriver and WebDriver BiDi backends. Multi-browser (Chrome, Edge, Firefox), built-in anti-detection stealth scripts, cookie access, and unified API via `StealthBrowser`/`StealthPage`.
+* [dig2browser](https://github.com/ZENG3LD/dig2browser) - Stealth browser automation for Rust. Custom CDP + WebDriver + BiDi backends. Chrome, Edge, Firefox. Zero external browser-automation deps.
 * [Endtest](https://endtest.io) - Cloud-based codeless automated testing.
 * [Erik](https://github.com/phimage/Erik) - Headless browser for functional tests in Swift, based on WebKit and [Kanna](https://github.com/tid-kijyun/Kanna).
 * [Katalon Recorder](https://chrome.google.com/webstore/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid) - A solution to kick-start test automation for small companies & start-ups.
