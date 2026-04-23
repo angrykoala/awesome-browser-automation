@@ -55,6 +55,7 @@ Browser automation is the act of executing actions automatically in a web browse
 * [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Provides browser automation capabilities using [Playwright](https://github.com/microsoft/playwright)
 * [Skyvern](https://github.com/Skyvern-AI/Skyvern) - Use prompts + AI to automate actions in the browser.
 * [Steel Browser](https://github.com/steel-dev/steel-browser) - Open-source browser sandbox and API for AI agents with session-backed automation, screenshots, PDFs, and anti-bot tooling.
+* [Agent-OS](https://github.com/factspark23-hash/Agent-OS) - Production-grade stealth browser automation server with 199 tools, 26+ anti-detection vectors, self-healing selectors, and MCP support for AI agents.
 
 ### Related tools
 
