@@ -55,6 +55,7 @@ Browser automation is the act of executing actions automatically in a web browse
 * [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Provides browser automation capabilities using [Playwright](https://github.com/microsoft/playwright)
 * [Skyvern](https://github.com/Skyvern-AI/Skyvern) - Use prompts + AI to automate actions in the browser.
 * [Steel Browser](https://github.com/steel-dev/steel-browser) - Open-source browser sandbox and API for AI agents with session-backed automation, screenshots, PDFs, and anti-bot tooling.
+* [CamoFox Browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser for AI agents built on a Firefox fork with C++ fingerprint spoofing to bypass Cloudflare, Akamai, and bot detection.
 
 ### Related tools
 
