@@ -53,6 +53,7 @@ Browser automation is the act of executing actions automatically in a web browse
 * [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Provides browser automation capabilities using [Playwright](https://github.com/microsoft/playwright)
 * [Skyvern](https://github.com/Skyvern-AI/Skyvern) - Use prompts + AI to automate actions in the browser.
 * [Steel Browser](https://github.com/steel-dev/steel-browser) - Open-source browser sandbox and API for AI agents with session-backed automation, screenshots, PDFs, and anti-bot tooling.
+* [Taprun](https://github.com/LeonTing1010/tap) - MCP server that compiles AI browser automation into deterministic `.tap.json` plans (25-op closed union, zero runtime LLM), runs on your logged-in Chrome, and detects drift via semantic fingerprint diff when sites change. 65+ open community taps on 40+ sites.
 
 ### Related tools
 
