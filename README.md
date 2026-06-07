@@ -48,6 +48,7 @@ Browser automation is the act of executing actions automatically in a web browse
 
 ### AI
 
+* [agent-qa](https://github.com/vostride/agent-qa) - Self-improving agentic QA harness that writes natural-language web tests and heals browser interactions using execution memory.
 * [Alumnium](https://alumnium.ai) - Open-source AI-powered test automation library on top of Playwright/Selenium.
 * [BrowserBook](https://browserbook.com) - AI-powered browser automation IDE with inline browser & coding agent built on top of Playwright.
 * [Browser-Use](https://github.com/browser-use/browser-use) - Python library and service to automate browsing using AI agents and Chrome DevTools Protocol.
