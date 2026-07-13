@@ -77,6 +77,7 @@ Browser automation is the act of executing actions automatically in a web browse
 
 ## Resources
 
+* [Awesome AI Testing](https://github.com/tugkanboz/awesome-ai-testing) - Curated list of AI-powered testing tools, frameworks, and resources for QA engineers, covering test generation, self-healing automation, MCP-based testing, and LLM-as-judge evaluation.
 * [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium#readme) - Curated list of Selenium resources and related tools.
 * [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping) - Comprehensive list of tools, programming libraries and web services used in web scraping.
 * [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - Detailed list of multiple headless browsers.
