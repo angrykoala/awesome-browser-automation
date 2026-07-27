@@ -16,6 +16,7 @@ Browser automation is the act of executing actions automatically in a web browse
  
 * [Axiom](https://axiom.ai) - No code browser automation tool, like Zapier.
 * [Browserflow](https://browserflow.app) - Chrome extension to automate your local browser or in the cloud.
+- [UnblockAPI](https://unblockapi.com) - Multi-service API for AI agents providing headless browser rendering (Chromium), full-page screenshots, captcha solving for 40+ types, temp email, SMS verification, and web search. One API key, flat pricing from $0.05/call. 5 free calls.
 * [Capybara](https://github.com/teamcapybara/capybara) - Driver-agnostic tool and DSL to write automation tests in Ruby.
 * [Chromedp](https://github.com/chromedp/chromedp) - Browser automation through Chrome DevTools Protocol fully implemented in Go.
 * [Codeception](https://github.com/codeception/codeception) - PHP end-to-end testing with BDD style.
