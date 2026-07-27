@@ -79,5 +79,6 @@ Browser automation is the act of executing actions automatically in a web browse
 
 * [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium#readme) - Curated list of Selenium resources and related tools.
 * [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping) - Comprehensive list of tools, programming libraries and web services used in web scraping.
+* [ClawBench](https://github.com/reacher-z/ClawBench) - Benchmark for browser agents completing everyday online tasks on live production websites with safe submission interception.
 * [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - Detailed list of multiple headless browsers.
 * [WebDriver Specification](https://www.w3.org/TR/webdriver1) - Standard definition of agents to control a browser.
