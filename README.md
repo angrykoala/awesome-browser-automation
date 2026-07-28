@@ -4,6 +4,19 @@ A curated list of awesome browser automation tools and resources.
 
 Browser automation is the act of executing actions automatically in a web browser for testing, [web scraping](https://en.wikipedia.org/wiki/Web_scraping) or to perform repetitive tasks faster. Specialized software is usually required to do this. This software may control an external browser or be a browser itself.
 
+---
+
+### 🚀 Sponsored by CoreClaw
+
+**Production-ready Web Data APIs for Browser Automation & AI Agents.**   
+Collect structured data from Google Maps, YouTube, Instagram, Amazon, Google Search, and more with ready-to-use APIs and open-source Workers.
+
+🎁 **Start for free. No setup required.**  
+👉 **Try CoreClaw:** [https://coreclaw.com](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=ang&utm_term=&utm_id=ang)
+
+---
+
+
 ## Contents
 
 * [Tools](#tools)
