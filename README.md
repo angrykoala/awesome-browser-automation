@@ -55,6 +55,7 @@ Collect structured data from Google Maps, YouTube, Instagram, Amazon, Google Sea
 * [Splinter](https://splinter.readthedocs.io/en/latest/index.html) - Python abstraction of existing browser automation tools with a high-level API for testing.
 * [TestCafe](https://devexpress.github.io/testcafe) - Full end-to-end testing environment supporting multiple browsers.
 * [Watir](http://watir.com) - Ruby library for automating tests powered by Selenium.
+* [wavexis](https://github.com/MathiasPaulenko/wavexis) - Async Python browser automation library with dual backend (CDP for Chrome/Edge, BiDi for Firefox). No driver needed for CDP. Stealth mode, network interception, a11y snapshots.
 * [WebdriverIO](http://webdriver.io) - WebDriver bindings to Node.js that lets you control a browser.
 * [WebParsy](https://github.com/joseconstela/webparsy) - Web scraping library and CLI using Puppeteer and YAML.
 * [Wendigo](https://github.com/angrykoala/wendigo) - Test-oriented automation tool built on top of Puppeteer.
