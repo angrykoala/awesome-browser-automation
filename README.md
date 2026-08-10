@@ -75,6 +75,7 @@ Collect structured data from Google Maps, YouTube, Instagram, Amazon, Google Sea
 ### Related tools
 
 * [Buglesstack](https://buglesstack.com/) - Debugging platform for browser automation tools.
+* [Browser Cookie Bridge](https://github.com/apoorvdarshan/browser-cookie-bridge) - Transfers authenticated sessions between Chromium browsers locally on macOS for testing and automation.
 * [Cheerio](https://github.com/cheeriojs/cheerio) - jQuery implementation in Node.js for DOM emulation.
 * [jsdom](https://github.com/jsdom/jsdom) - DOM implementation in Node.js to emulate real browsers.
 * [Node-crawler](https://github.com/bda-research/node-crawler) - Web Crawler/Spider for Node.js using server-side DOM.
