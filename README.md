@@ -61,6 +61,8 @@ Collect structured data from Google Maps, YouTube, Instagram, Amazon, Google Sea
 
 ### AI
 
+- [Clickyy](https://github.com/jayamitkatariya/clickyyy) - macOS menu bar AI agent. Shake cursor to summon — sees your screen and clicks, types, drags, scrolls to complete tasks.
+
 * [Alumnium](https://alumnium.ai) - Open-source AI-powered test automation library on top of Playwright/Selenium.
 * [BrowserBook](https://browserbook.com) - AI-powered browser automation IDE with inline browser & coding agent built on top of Playwright.
 * [Browser-Use](https://github.com/browser-use/browser-use) - Python library and service to automate browsing using AI agents and Chrome DevTools Protocol.
