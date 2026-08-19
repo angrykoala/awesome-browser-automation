@@ -75,6 +75,7 @@ Collect structured data from Google Maps, YouTube, Instagram, Amazon, Google Sea
 ### Related tools
 
 * [Buglesstack](https://buglesstack.com/) - Debugging platform for browser automation tools.
+* [CapMonster Cloud](https://github.com/CapMonsterCloud/capmonster-captcha-solver-docs) - Cloud-based CAPTCHA solving API and open-source SDKs for browser automation pipelines.
 * [Cheerio](https://github.com/cheeriojs/cheerio) - jQuery implementation in Node.js for DOM emulation.
 * [jsdom](https://github.com/jsdom/jsdom) - DOM implementation in Node.js to emulate real browsers.
 * [Node-crawler](https://github.com/bda-research/node-crawler) - Web Crawler/Spider for Node.js using server-side DOM.
