@@ -71,6 +71,7 @@ Collect structured data from Google Maps, YouTube, Instagram, Amazon, Google Sea
 * [Skyvern](https://github.com/Skyvern-AI/Skyvern) - Use prompts + AI to automate actions in the browser.
 * [Steel Browser](https://github.com/steel-dev/steel-browser) - Open-source browser sandbox and API for AI agents with session-backed automation, screenshots, PDFs, and anti-bot tooling.
 * [CamoFox Browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser for AI agents built on a Firefox fork with C++ fingerprint spoofing to bypass Cloudflare, Akamai, and bot detection.
+* [chrome-bridge](https://github.com/siropkin/chrome-bridge) - Lets any AI agent drive your real, logged-in Chrome through a zero-dependency CLI: accessibility-tree snapshots with element refs, CDP screenshots, and network capture.
 
 ### Related tools
 
