@@ -36,6 +36,7 @@ Collect structured data from Google Maps, YouTube, Instagram, Amazon, Google Sea
 * [Cypress](https://www.cypress.io) - E2E testing for JavaScript through a browser.
 * [Endtest](https://endtest.io) - Cloud-based codeless automated testing.
 * [Erik](https://github.com/phimage/Erik) - Headless browser for functional tests in Swift, based on WebKit and [Kanna](https://github.com/tid-kijyun/Kanna).
+* [Figranium](https://github.com/figranium/figranium) - Build complex browser workflows visually and execute them via REST API. Dockerized and Playwright-based.
 * [Katalon Recorder](https://chrome.google.com/webstore/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid) - A solution to kick-start test automation for small companies & start-ups.
 * [Mechanize](https://mechanize.readthedocs.io/en/latest) - Programmatic web browser emulation in Python.
 * [Nightmare](https://github.com/segmentio/nightmare) - High-level browser automation built on top of Electron.
