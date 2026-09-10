@@ -27,6 +27,7 @@ Collect structured data from Google Maps, YouTube, Instagram, Amazon, Google Sea
 
 ## Tools
  
+* [AntiBrow](https://antibrow.com) - Kernel-level antidetect browser exposing a standard Playwright BrowserContext over CDP; fingerprints applied in the C++ layer rather than injected scripts.
 * [Axiom](https://axiom.ai) - No code browser automation tool, like Zapier.
 * [Browserflow](https://browserflow.app) - Chrome extension to automate your local browser or in the cloud.
 * [Capybara](https://github.com/teamcapybara/capybara) - Driver-agnostic tool and DSL to write automation tests in Ruby.
