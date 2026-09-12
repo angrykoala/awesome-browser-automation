@@ -60,6 +60,7 @@ Collect structured data from Google Maps, YouTube, Instagram, Amazon, Google Sea
 * [Wendigo](https://github.com/angrykoala/wendigo) - Test-oriented automation tool built on top of Puppeteer.
 
 ### AI
+* [AIHawk](https://github.com/feder-cr/AIHawk) - Open-source AI browser agent that browses, clicks, types, and reads the web from plain-English instructions. Ships as an MCP server for Claude Code, Codex, and Gemini CLI, and includes a standalone web UI.
 
 * [Alumnium](https://alumnium.ai) - Open-source AI-powered test automation library on top of Playwright/Selenium.
 * [BrowserBook](https://browserbook.com) - AI-powered browser automation IDE with inline browser & coding agent built on top of Playwright.
