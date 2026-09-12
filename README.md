@@ -27,6 +27,7 @@ Collect structured data from Google Maps, YouTube, Instagram, Amazon, Google Sea
 
 ## Tools
  
+* [AntiBrow](https://github.com/antibrow/antibrow) - Antidetect browser with persistent profiles, driven through the standard Playwright API or an MCP server.
 * [Axiom](https://axiom.ai) - No code browser automation tool, like Zapier.
 * [Browserflow](https://browserflow.app) - Chrome extension to automate your local browser or in the cloud.
 * [Capybara](https://github.com/teamcapybara/capybara) - Driver-agnostic tool and DSL to write automation tests in Ruby.
