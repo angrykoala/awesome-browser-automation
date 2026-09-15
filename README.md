@@ -61,6 +61,7 @@ Collect structured data from Google Maps, YouTube, Instagram, Amazon, Google Sea
 
 ### AI
 
+* [agent-hands](https://github.com/yassiEmp/agent-hands) - Human-rate mouse and keyboard for AI agents driving Chrome or Edge over CDP, including a browser the user is already logged into.
 * [Alumnium](https://alumnium.ai) - Open-source AI-powered test automation library on top of Playwright/Selenium.
 * [BrowserBook](https://browserbook.com) - AI-powered browser automation IDE with inline browser & coding agent built on top of Playwright.
 * [Browser-Use](https://github.com/browser-use/browser-use) - Python library and service to automate browsing using AI agents and Chrome DevTools Protocol.
