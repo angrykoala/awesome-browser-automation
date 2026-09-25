@@ -80,6 +80,7 @@ Collect structured data from Google Maps, YouTube, Instagram, Amazon, Google Sea
 * [jsdom](https://github.com/jsdom/jsdom) - DOM implementation in Node.js to emulate real browsers.
 * [Node-crawler](https://github.com/bda-research/node-crawler) - Web Crawler/Spider for Node.js using server-side DOM.
 * [Postman](https://www.getpostman.com) - API requests and development tool with automation options.
+* [scrapescope](https://github.com/ipvolt/scrapescope) - Local metering proxy that breaks down the bytes of a browser automation run by host and resource type and stops a job at a byte budget.
 * [X-Ray](https://github.com/matthewmueller/x-ray) - Web Scraper with composable API and extra drivers.
 
 ## Articles
