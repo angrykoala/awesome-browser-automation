@@ -69,6 +69,7 @@ Collect structured data from Google Maps, YouTube, Instagram, Amazon, Google Sea
 * [Openwork](https://github.com/accomplish-ai/openwork) - MIT-licensed, open alternative to Anthropic's Cowork. Supports multiple LLM providers for launching computer-use agents to automate browser workflows.
 * [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Provides browser automation capabilities using [Playwright](https://github.com/microsoft/playwright)
 * [Skyvern](https://github.com/Skyvern-AI/Skyvern) - Use prompts + AI to automate actions in the browser.
+* [socai](https://github.com/socai-io/socai) - Open-source social-media browser agent that reuses a signed-in Chrome session to inspect posts, comments, replies, and media through desktop, CLI, and terminal interfaces.
 * [Steel Browser](https://github.com/steel-dev/steel-browser) - Open-source browser sandbox and API for AI agents with session-backed automation, screenshots, PDFs, and anti-bot tooling.
 * [Webcmd](https://github.com/agentrhq/webcmd) - CLI that learns a site's navigation once and compiles it into reusable deterministic commands for AI agents.
 * [CamoFox Browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser for AI agents built on a Firefox fork with C++ fingerprint spoofing to bypass Cloudflare, Akamai, and bot detection.
