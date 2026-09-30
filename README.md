@@ -6,13 +6,23 @@ Browser automation is the act of executing actions automatically in a web browse
 
 ---
 
-### 🚀 Sponsored by CoreClaw
+## 🚀 Sponsored by
+
+### CoreClaw
 
 **Production-ready Web Data APIs for Browser Automation & AI Agents.**   
 Collect structured data from Google Maps, YouTube, Instagram, Amazon, Google Search, and more with ready-to-use APIs and open-source Workers.
 
 🎁 **Start for free. No setup required.**  
 👉 **Try CoreClaw:** [https://coreclaw.com](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=ang&utm_term=&utm_id=ang)
+
+
+### RapidProxy
+Reliable Residential Proxies for Browser Automation, Web Scraping & AI Agents.
+Access 90M+ residential IPs worldwide with smart rotation, sticky sessions, precise geo-targeting, and HTTP(S)/SOCKS5 support.
+
+🎁 **Start for free.** Plans from $0.55/GB with non-expiring traffic.   
+👉 **Try RapidProxy:** [https://www.rapidproxy.io](https://www.rapidproxy.io/?ref=awsn) — Use code RAPID10 for 10% off.
 
 ---
 
