@@ -71,6 +71,7 @@ Access 90M+ residential IPs worldwide with smart rotation, sticky sessions, prec
 
 ### AI
 
+* [aiFetchly](https://www.aifetchly.com) - Open-source desktop AI agent with Puppeteer-based browser automation for lead generation, outreach, and scheduled workflows.
 * [Alumnium](https://alumnium.ai) - Open-source AI-powered test automation library on top of Playwright/Selenium.
 * [BrowserBook](https://browserbook.com) - AI-powered browser automation IDE with inline browser & coding agent built on top of Playwright.
 * [Browser-Use](https://github.com/browser-use/browser-use) - Python library and service to automate browsing using AI agents and Chrome DevTools Protocol.
