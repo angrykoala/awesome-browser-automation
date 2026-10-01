@@ -62,6 +62,7 @@ Access 90M+ residential IPs worldwide with smart rotation, sticky sessions, prec
 * [Selenium](https://www.seleniumhq.org) - Suite to automate multiple browsers in different platforms.
   * [PHP-Webdriver](https://github.com/php-webdriver/php-webdriver) - PHP Client for Selenium/WebDriver.
 * [SimpleBrowser](https://github.com/SimpleBrowserDotNet/SimpleBrowser) - Browser automation engine build on .NET.
+* [SnapForge](https://snapforge-hq.netlify.app) - Hosted headless-browser API that turns a URL or raw HTML into a screenshot, OpenGraph image or PDF over one HTTP call.
 * [Splinter](https://splinter.readthedocs.io/en/latest/index.html) - Python abstraction of existing browser automation tools with a high-level API for testing.
 * [TestCafe](https://devexpress.github.io/testcafe) - Full end-to-end testing environment supporting multiple browsers.
 * [Watir](http://watir.com) - Ruby library for automating tests powered by Selenium.
