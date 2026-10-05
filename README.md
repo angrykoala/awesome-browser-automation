@@ -74,6 +74,7 @@ Access 90M+ residential IPs worldwide with smart rotation, sticky sessions, prec
 * [Alumnium](https://alumnium.ai) - Open-source AI-powered test automation library on top of Playwright/Selenium.
 * [BrowserBook](https://browserbook.com) - AI-powered browser automation IDE with inline browser & coding agent built on top of Playwright.
 * [Browser-Use](https://github.com/browser-use/browser-use) - Python library and service to automate browsing using AI agents and Chrome DevTools Protocol.
+* [Keel](https://github.com/KeelDev-tech/keel) - Open-source (Apache-2.0) job-application autopilot that drives a real browser with a truthfulness contract: it only ever claims what you tell it is true.
 * [Libretto](https://github.com/saffron-health/libretto) - Open-source Playwright-based toolkit and CLI for coding agents to inspect pages, capture network traffic, record actions, and generate automation scripts.
 * [onUI](https://github.com/onllm-dev/onUI) - Browser extension and MCP server for annotation-first UI pair programming with AI agents.
 * [Openwork](https://github.com/accomplish-ai/openwork) - MIT-licensed, open alternative to Anthropic's Cowork. Supports multiple LLM providers for launching computer-use agents to automate browser workflows.
