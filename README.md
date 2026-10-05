@@ -71,6 +71,7 @@ Access 90M+ residential IPs worldwide with smart rotation, sticky sessions, prec
 
 ### AI
 
+* [Agentic Web Check](https://github.com/ericovirgy/agentic-web-check) - Open-source CLI that evaluates how well a website works for browser agents, using accessibility snapshots and task verdicts decided by programmatic assertions.
 * [Alumnium](https://alumnium.ai) - Open-source AI-powered test automation library on top of Playwright/Selenium.
 * [BrowserBook](https://browserbook.com) - AI-powered browser automation IDE with inline browser & coding agent built on top of Playwright.
 * [Browser-Use](https://github.com/browser-use/browser-use) - Python library and service to automate browsing using AI agents and Chrome DevTools Protocol.
