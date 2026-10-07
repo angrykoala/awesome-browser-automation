@@ -104,5 +104,6 @@ Access 90M+ residential IPs worldwide with smart rotation, sticky sessions, prec
 
 * [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium#readme) - Curated list of Selenium resources and related tools.
 * [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping) - Comprehensive list of tools, programming libraries and web services used in web scraping.
+* [Browser Agent Blueprint](https://github.com/LydiaTools/browser-agent-blueprint) - Prompt modules and a local browser demo for postcondition checks, bounded retries, and task resume.
 * [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - Detailed list of multiple headless browsers.
 * [WebDriver Specification](https://www.w3.org/TR/webdriver1) - Standard definition of agents to control a browser.
