@@ -37,6 +37,7 @@ Access 90M+ residential IPs worldwide with smart rotation, sticky sessions, prec
 
 ## Tools
  
+* [assay](https://github.com/awss1i/assay) - Deterministic command-line tool that drives a local web page in Chromium through Playwright and reports where the page contradicts itself.
 * [Axiom](https://axiom.ai) - No code browser automation tool, like Zapier.
 * [Browserflow](https://browserflow.app) - Chrome extension to automate your local browser or in the cloud.
 * [Capybara](https://github.com/teamcapybara/capybara) - Driver-agnostic tool and DSL to write automation tests in Ruby.
