@@ -73,6 +73,7 @@ Access 90M+ residential IPs worldwide with smart rotation, sticky sessions, prec
 
 * [Agent Browser](https://github.com/vercel-labs/agent-browser) - Fast browser automation CLI for AI agents with semantic snapshots, session persistence, and MCP support.
 * [Alumnium](https://alumnium.ai) - Open-source AI-powered test automation library on top of Playwright/Selenium.
+* [bdg](https://github.com/szymdzum/browser-debugger-cli) - Command line tool for coding agents to drive and debug Chrome over the DevTools Protocol, with commands for the DOM, network and console.
 * [BrowserBook](https://browserbook.com) - AI-powered browser automation IDE with inline browser & coding agent built on top of Playwright.
 * [Browser-Use](https://github.com/browser-use/browser-use) - Python library and service to automate browsing using AI agents and Chrome DevTools Protocol.
 * [Libretto](https://github.com/saffron-health/libretto) - Open-source Playwright-based toolkit and CLI for coding agents to inspect pages, capture network traffic, record actions, and generate automation scripts.
