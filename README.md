@@ -82,6 +82,7 @@ Access 90M+ residential IPs worldwide with smart rotation, sticky sessions, prec
 * [Skyvern](https://github.com/Skyvern-AI/Skyvern) - Use prompts + AI to automate actions in the browser.
 * [Steel Browser](https://github.com/steel-dev/steel-browser) - Open-source browser sandbox and API for AI agents with session-backed automation, screenshots, PDFs, and anti-bot tooling.
 * [Webcmd](https://github.com/agentrhq/webcmd) - CLI that learns a site's navigation once and compiles it into reusable deterministic commands for AI agents.
+* [XActions](https://github.com/nirholas/XActions) - Open-source X/Twitter automation toolkit with an MCP server, CLI, and Puppeteer browser scripts for AI agents, no API fees.
 * [CamoFox Browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser for AI agents built on a Firefox fork with C++ fingerprint spoofing to bypass Cloudflare, Akamai, and bot detection.
 
 ### Related tools
