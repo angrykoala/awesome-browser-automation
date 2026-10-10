@@ -95,6 +95,7 @@ Access 90M+ residential IPs worldwide with smart rotation, sticky sessions, prec
 
 ## Articles
 
+* [BrowseSprint browser-task timing guide](https://codexbrowse.site/codex-browser-slow) - Guide and blank CSV for comparing browser-agent task time and outcomes while retaining failed runs.
 * [Cucumber Browser Automation](https://cucumber.io/docs/guides/browser-automation) - Guide for [BDD](https://en.wikipedia.org/wiki/Behavior-driven_development) testing using Selenium with Cucumber.
 * [Guide to Web Automation](https://hackernoon.com/guide-to-web-automation-889557804453) - Guide covering different tools and techniques for web automation.
 * [Martin Fowler - PageObject](https://martinfowler.com/bliki/PageObject.html) - An article describing the basic concepts of page object pattern.
