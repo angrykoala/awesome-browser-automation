@@ -43,6 +43,7 @@ Access 90M+ residential IPs worldwide with smart rotation, sticky sessions, prec
 * [Chromedp](https://github.com/chromedp/chromedp) - Browser automation through Chrome DevTools Protocol fully implemented in Go.
 * [Codeception](https://github.com/codeception/codeception) - PHP end-to-end testing with BDD style.
 * [CodeceptJS](https://github.com/Codeception/CodeceptJS) - BDD style tests with support for multiple headless browsers.
+* [CopperOS](https://github.com/Jesse0502/CopperOS) - Automate your browser via Chrome Extention, keep your data.
 * [Cypress](https://www.cypress.io) - E2E testing for JavaScript through a browser.
 * [Endtest](https://endtest.io) - Cloud-based codeless automated testing.
 * [Erik](https://github.com/phimage/Erik) - Headless browser for functional tests in Swift, based on WebKit and [Kanna](https://github.com/tid-kijyun/Kanna).
