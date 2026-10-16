@@ -54,6 +54,7 @@ Access 90M+ residential IPs worldwide with smart rotation, sticky sessions, prec
 * [PhantomJS](https://github.com/ariya/phantomjs) - Headless browser for Node.js.
 * [Playwright](https://github.com/microsoft/playwright) - Cross-browser web automation platform for Node.js.
   * [invisible-playwright](https://github.com/feder-cr/invisible_playwright) - Drop-in Playwright wrapper that launches a stealth-patched Firefox 150 binary instead of vanilla Firefox.
+  * [GoUndetected SDK](https://www.npmjs.com/package/@goundetected/sdk) - Launch GoUndetected antidetect browser profiles and connect with Playwright or Puppeteer over CDP ([docs](https://goundetected.io/docs)).
 * [Puppeteer](https://github.com/GoogleChrome/puppeteer) - High level API in Node.js to control Chrome.
   * [Browserless](https://browserless.js.org) - Complementary library for Puppeteer with sensible defaults, adblocker and pooling.
   * [Puppeteer-Extra](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra) - Plugin support for Puppeteer and several plugins including reCAPTCHA and adblocker.
