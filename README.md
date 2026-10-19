@@ -86,6 +86,8 @@ Access 90M+ residential IPs worldwide with smart rotation, sticky sessions, prec
 
 ### Related tools
 
+* [ScreenshotRun](https://screenshotrun.com) - Screenshot REST API powered by headless Chrome. Full page, custom viewport, batch capture, PNG/JPEG/WebP output.
+
 * [Buglesstack](https://buglesstack.com/) - Debugging platform for browser automation tools.
 * [Cheerio](https://github.com/cheeriojs/cheerio) - jQuery implementation in Node.js for DOM emulation.
 * [jsdom](https://github.com/jsdom/jsdom) - DOM implementation in Node.js to emulate real browsers.
