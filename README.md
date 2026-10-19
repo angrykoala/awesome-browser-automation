@@ -81,6 +81,7 @@ Access 90M+ residential IPs worldwide with smart rotation, sticky sessions, prec
 * [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Provides browser automation capabilities using [Playwright](https://github.com/microsoft/playwright)
 * [Skyvern](https://github.com/Skyvern-AI/Skyvern) - Use prompts + AI to automate actions in the browser.
 * [Steel Browser](https://github.com/steel-dev/steel-browser) - Open-source browser sandbox and API for AI agents with session-backed automation, screenshots, PDFs, and anti-bot tooling.
+* [UnblockingAPI MCP](https://github.com/unblockingapi/mcp) - MCP server that lets AI agents fetch bot-protected and JavaScript-heavy pages through plain HTTP or a real browser, and parse them into JSON with published templates.
 * [Webcmd](https://github.com/agentrhq/webcmd) - CLI that learns a site's navigation once and compiles it into reusable deterministic commands for AI agents.
 * [CamoFox Browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser for AI agents built on a Firefox fork with C++ fingerprint spoofing to bypass Cloudflare, Akamai, and bot detection.
 
