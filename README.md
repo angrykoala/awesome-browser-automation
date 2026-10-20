@@ -77,6 +77,7 @@ Access 90M+ residential IPs worldwide with smart rotation, sticky sessions, prec
 * [Browser-Use](https://github.com/browser-use/browser-use) - Python library and service to automate browsing using AI agents and Chrome DevTools Protocol.
 * [Libretto](https://github.com/saffron-health/libretto) - Open-source Playwright-based toolkit and CLI for coding agents to inspect pages, capture network traffic, record actions, and generate automation scripts.
 * [onUI](https://github.com/onllm-dev/onUI) - Browser extension and MCP server for annotation-first UI pair programming with AI agents.
+* [Open-CUAK](https://github.com/Aident-AI/open-cuak) - Open-source platform by [Aident](https://aident.ai) for running vision-based browser automation agents locally, with a dedicated remote browser and any vision-capable model.
 * [Openwork](https://github.com/accomplish-ai/openwork) - MIT-licensed, open alternative to Anthropic's Cowork. Supports multiple LLM providers for launching computer-use agents to automate browser workflows.
 * [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Provides browser automation capabilities using [Playwright](https://github.com/microsoft/playwright)
 * [Skyvern](https://github.com/Skyvern-AI/Skyvern) - Use prompts + AI to automate actions in the browser.
