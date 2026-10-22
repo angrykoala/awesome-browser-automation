@@ -98,6 +98,7 @@ Access 90M+ residential IPs worldwide with smart rotation, sticky sessions, prec
 * [Guide to Web Automation](https://hackernoon.com/guide-to-web-automation-889557804453) - Guide covering different tools and techniques for web automation.
 * [Martin Fowler - PageObject](https://martinfowler.com/bliki/PageObject.html) - An article describing the basic concepts of page object pattern.
 * [Modern Web Automation With Python and Selenium](https://realpython.com/modern-web-automation-with-python-and-selenium) - Tutorial for getting started with Selenium in Python.
+* [Playwright API Testing Guide](https://keploy.io/blog/community/playwright-api-testing) - Guide to testing APIs with Playwright and combining API calls with browser tests in one suite.
 
 ## Resources
 
