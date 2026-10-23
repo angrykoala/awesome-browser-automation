@@ -85,6 +85,7 @@ Access 90M+ residential IPs worldwide with smart rotation, sticky sessions, prec
 
 ### Related tools
 
+* [Allscreenshots](https://allscreenshots.com) - Hosted screenshot API that renders pages in managed browsers, so you don't have to run Chrome, Playwright or Puppeteer for captures.
 * [Buglesstack](https://buglesstack.com/) - Debugging platform for browser automation tools.
 * [Cheerio](https://github.com/cheeriojs/cheerio) - jQuery implementation in Node.js for DOM emulation.
 * [jsdom](https://github.com/jsdom/jsdom) - DOM implementation in Node.js to emulate real browsers.
