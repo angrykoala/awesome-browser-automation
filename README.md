@@ -90,6 +90,7 @@ Access 90M+ residential IPs worldwide with smart rotation, sticky sessions, prec
 * [jsdom](https://github.com/jsdom/jsdom) - DOM implementation in Node.js to emulate real browsers.
 * [Node-crawler](https://github.com/bda-research/node-crawler) - Web Crawler/Spider for Node.js using server-side DOM.
 * [Postman](https://www.getpostman.com) - API requests and development tool with automation options.
+* [Solvecha](https://github.com/Solvecha/solvecha-extension) - Browser extension that solves reCAPTCHA v2 image challenges in Puppeteer, Playwright and Selenium browsers.
 * [X-Ray](https://github.com/matthewmueller/x-ray) - Web Scraper with composable API and extra drivers.
 
 ## Articles
