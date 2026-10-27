@@ -101,6 +101,7 @@ Access 90M+ residential IPs worldwide with smart rotation, sticky sessions, prec
 
 ## Resources
 
+* [Agent Stack Directory: Browsers](https://agentstackdirectory.com/category/browsers/) - Comparison of cloud and headless browser services for AI agents, with pricing, open-source status and last-checked dates.
 * [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium#readme) - Curated list of Selenium resources and related tools.
 * [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping) - Comprehensive list of tools, programming libraries and web services used in web scraping.
 * [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - Detailed list of multiple headless browsers.
