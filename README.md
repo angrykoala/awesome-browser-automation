@@ -53,6 +53,7 @@ Browser automation is the act of executing actions automatically in a web browse
 * [BrowserBook](https://browserbook.com) - AI-powered browser automation IDE with inline browser & coding agent built on top of Playwright.
 * [Browser-Use](https://github.com/browser-use/browser-use) - Python library and service to automate browsing using AI agents and Chrome DevTools Protocol.
 * [Libretto](https://github.com/saffron-health/libretto) - Open-source Playwright-based toolkit and CLI for coding agents to inspect pages, capture network traffic, record actions, and generate automation scripts.
+* [Nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-source Chrome/Edge extension that runs AI agents in your own browser to automate web tasks.
 * [onUI](https://github.com/onllm-dev/onUI) - Browser extension and MCP server for annotation-first UI pair programming with AI agents.
 * [Openwork](https://github.com/accomplish-ai/openwork) - MIT-licensed, open alternative to Anthropic's Cowork. Supports multiple LLM providers for launching computer-use agents to automate browser workflows.
 * [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Provides browser automation capabilities using [Playwright](https://github.com/microsoft/playwright)
