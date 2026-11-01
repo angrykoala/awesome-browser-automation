@@ -48,6 +48,7 @@ Browser automation is the act of executing actions automatically in a web browse
 
 ### AI
 
+* [AdsCrawl](https://www.adscrawl.net) - Managed cloud browsers and browser automation API for developers and AI agents, with Playwright, Puppeteer, and CDP support.
 * [Agent Browser](https://github.com/vercel-labs/agent-browser) - Fast browser automation CLI for AI agents with semantic snapshots, session persistence, and MCP support.
 * [Alumnium](https://alumnium.ai) - Open-source AI-powered test automation library on top of Playwright/Selenium.
 * [BrowserBook](https://browserbook.com) - AI-powered browser automation IDE with inline browser & coding agent built on top of Playwright.
