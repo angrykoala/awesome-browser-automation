@@ -77,6 +77,7 @@ Browser automation is the act of executing actions automatically in a web browse
 * [Guide to Web Automation](https://hackernoon.com/guide-to-web-automation-889557804453) - Guide covering different tools and techniques for web automation.
 * [Martin Fowler - PageObject](https://martinfowler.com/bliki/PageObject.html) - An article describing the basic concepts of page object pattern.
 * [Modern Web Automation With Python and Selenium](https://realpython.com/modern-web-automation-with-python-and-selenium) - Tutorial for getting started with Selenium in Python.
+* [Playwright proxy setup and authentication](https://portproof.org/guides/playwright-proxy) - Guide to configuring an authenticated HTTP proxy per browser or per context in Playwright and Playwright Test, verifying it with a page navigation and troubleshooting 407, tunnel and timeout errors.
 
 ## Resources
 
