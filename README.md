@@ -69,6 +69,7 @@ Browser automation is the act of executing actions automatically in a web browse
 * [jsdom](https://github.com/jsdom/jsdom) - DOM implementation in Node.js to emulate real browsers.
 * [Node-crawler](https://github.com/bda-research/node-crawler) - Web Crawler/Spider for Node.js using server-side DOM.
 * [Postman](https://www.getpostman.com) - API requests and development tool with automation options.
+* [SnapRender](https://snap-render.com) - Screenshot and PDF API that renders pages in real Chrome, with an MCP server for AI agents.
 * [X-Ray](https://github.com/matthewmueller/x-ray) - Web Scraper with composable API and extra drivers.
 
 ## Articles
