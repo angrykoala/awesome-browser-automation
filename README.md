@@ -61,6 +61,7 @@ Browser automation is the act of executing actions automatically in a web browse
 * [Steel Browser](https://github.com/steel-dev/steel-browser) - Open-source browser sandbox and API for AI agents with session-backed automation, screenshots, PDFs, and anti-bot tooling.
 * [Webcmd](https://github.com/agentrhq/webcmd) - CLI that learns a site's navigation once and compiles it into reusable deterministic commands for AI agents.
 * [CamoFox Browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser for AI agents built on a Firefox fork with C++ fingerprint spoofing to bypass Cloudflare, Akamai, and bot detection.
+* [Chat Export](https://github.com/svergio/chat-export-server) - Local MCP server + Chrome extension that drives logged-in ChatGPT, Claude, Grok and other LLM tabs for list/export/ask without vendor API keys.
 
 ### Related tools
 
