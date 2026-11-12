@@ -31,6 +31,7 @@ Browser automation is the act of executing actions automatically in a web browse
 * [PhantomJS](https://github.com/ariya/phantomjs) - Headless browser for Node.js.
 * [Playwright](https://github.com/microsoft/playwright) - Cross-browser web automation platform for Node.js.
   * [invisible-playwright](https://github.com/feder-cr/invisible_playwright) - Drop-in Playwright wrapper that launches a stealth-patched Firefox 150 binary instead of vanilla Firefox.
+  * [screenshot-ready](https://github.com/User0856/screenshot-ready) - Prepares a Playwright or Puppeteer page for screenshots: waits for web fonts and lazy images, hides cookie banners without clicking and freezes animations. Node.js and Python.
 * [Puppeteer](https://github.com/GoogleChrome/puppeteer) - High level API in Node.js to control Chrome.
   * [Browserless](https://browserless.js.org) - Complementary library for Puppeteer with sensible defaults, adblocker and pooling.
   * [Puppeteer-Extra](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra) - Plugin support for Puppeteer and several plugins including reCAPTCHA and adblocker.
