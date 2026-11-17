@@ -72,6 +72,7 @@ Browser automation is the act of executing actions automatically in a web browse
 * [jsdom](https://github.com/jsdom/jsdom) - DOM implementation in Node.js to emulate real browsers.
 * [Node-crawler](https://github.com/bda-research/node-crawler) - Web Crawler/Spider for Node.js using server-side DOM.
 * [Postman](https://www.getpostman.com) - API requests and development tool with automation options.
+* [Spider](https://github.com/spider-rs/spider) - Web crawler and scraper in Rust that runs over HTTP and launches headless Chrome only on pages that need JavaScript.
 * [X-Ray](https://github.com/matthewmueller/x-ray) - Web Scraper with composable API and extra drivers.
 
 ## Articles
