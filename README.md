@@ -57,6 +57,7 @@ Browser automation is the act of executing actions automatically in a web browse
 * [e2e](https://github.com/e2e-inc/e2e) - End-to-end testing framework with a Playwright browser engine, natural-language agent steps, and replay of verified actions.
 * [Firecrawl](https://docs.firecrawl.dev/features/browser) - Browser sandbox for AI agents to interact with live pages using prompts or Playwright code, with no local setup.
 * [Libretto](https://github.com/saffron-health/libretto) - Open-source Playwright-based toolkit and CLI for coding agents to inspect pages, capture network traffic, record actions, and generate automation scripts.
+* [Mirasim Computer Use](https://github.com/mirasim-ai/computer-use) - MCP server for coding agents that drives browsers, macOS apps and Electron apps through accessibility trees, running a scripted chain of steps per call and reporting each step.
 * [onUI](https://github.com/onllm-dev/onUI) - Browser extension and MCP server for annotation-first UI pair programming with AI agents.
 * [Openwork](https://github.com/accomplish-ai/openwork) - MIT-licensed, open alternative to Anthropic's Cowork. Supports multiple LLM providers for launching computer-use agents to automate browser workflows.
 * [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Provides browser automation capabilities using [Playwright](https://github.com/microsoft/playwright)
