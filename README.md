@@ -61,6 +61,7 @@ Browser automation is the act of executing actions automatically in a web browse
 * [OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt) - Open-source verified browser and desktop automation engine with independent post-action read-back, drift halting, and signed Ed25519 DSSE receipts.
 * [Openwork](https://github.com/accomplish-ai/openwork) - MIT-licensed, open alternative to Anthropic's Cowork. Supports multiple LLM providers for launching computer-use agents to automate browser workflows.
 * [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Provides browser automation capabilities using [Playwright](https://github.com/microsoft/playwright)
+* [Revyl](https://revyl.com) - Verification infrastructure for cloud agents with cloud web browsers, iOS simulators, Android emulators, and macOS computers via a hosted MCP server and open-source CLI, with Atlas as the shared record.
 * [Skyvern](https://github.com/Skyvern-AI/Skyvern) - Use prompts + AI to automate actions in the browser.
 * [Steel Browser](https://github.com/steel-dev/steel-browser) - Open-source browser sandbox and API for AI agents with session-backed automation, screenshots, PDFs, and anti-bot tooling.
 * [Webcmd](https://github.com/agentrhq/webcmd) - CLI that learns a site's navigation once and compiles it into reusable deterministic commands for AI agents.
