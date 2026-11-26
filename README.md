@@ -49,6 +49,7 @@ Browser automation is the act of executing actions automatically in a web browse
 ### AI
 
 * [Agent Browser](https://github.com/vercel-labs/agent-browser) - Fast browser automation CLI for AI agents with semantic snapshots, session persistence, and MCP support.
+* [Agent360 Browser MCP](https://github.com/Agent360dk/browser-mcp) - Chrome extension and MCP server that lets AI agents drive your real, signed-in Chrome, and asks you on screen for a 2FA code, a CAPTCHA or a decision mid-task.
 * [Alumnium](https://alumnium.ai) - Open-source AI-powered test automation library on top of Playwright/Selenium.
 * [bdg](https://github.com/szymdzum/browser-debugger-cli) - Command line tool for coding agents to drive and debug Chrome over the DevTools Protocol, with commands for the DOM, network and console.
 * [BrowserBook](https://browserbook.com) - AI-powered browser automation IDE with inline browser & coding agent built on top of Playwright.
