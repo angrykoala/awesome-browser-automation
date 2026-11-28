@@ -81,6 +81,7 @@ Browser automation is the act of executing actions automatically in a web browse
 * [Guide to Web Automation](https://hackernoon.com/guide-to-web-automation-889557804453) - Guide covering different tools and techniques for web automation.
 * [Martin Fowler - PageObject](https://martinfowler.com/bliki/PageObject.html) - An article describing the basic concepts of page object pattern.
 * [Modern Web Automation With Python and Selenium](https://realpython.com/modern-web-automation-with-python-and-selenium) - Tutorial for getting started with Selenium in Python.
+* [Obscura on Windows](https://mediaxiss.com/obscura-headless-browser-windows/) - Install guide for the Obscura headless browser on Windows, with a screenshot test against Chromium.
 
 ## Resources
 
