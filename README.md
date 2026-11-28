@@ -54,6 +54,7 @@ Browser automation is the act of executing actions automatically in a web browse
 * [BrowserBook](https://browserbook.com) - AI-powered browser automation IDE with inline browser & coding agent built on top of Playwright.
 * [Browser-Use](https://github.com/browser-use/browser-use) - Python library and service to automate browsing using AI agents and Chrome DevTools Protocol.
 * [Clawbrowser](https://github.com/clawbrowser/clawbrowser) - Managed Chromium runtime for AI agents with isolated profiles, built-in fingerprint and proxy management, exposed over CDP for Playwright and Puppeteer.
+* [DataLens Scrape](https://github.com/weird94/datalens-scrape-skill) - Agent skill and Playwright scripts that let coding agents collect lists, tables and comment threads from a page into CSV, following pagination, infinite scroll and load-more.
 * [e2e](https://github.com/e2e-inc/e2e) - End-to-end testing framework with a Playwright browser engine, natural-language agent steps, and replay of verified actions.
 * [Firecrawl](https://docs.firecrawl.dev/features/browser) - Browser sandbox for AI agents to interact with live pages using prompts or Playwright code, with no local setup.
 * [Libretto](https://github.com/saffron-health/libretto) - Open-source Playwright-based toolkit and CLI for coding agents to inspect pages, capture network traffic, record actions, and generate automation scripts.
