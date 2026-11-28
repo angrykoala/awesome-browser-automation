@@ -53,6 +53,7 @@ Browser automation is the act of executing actions automatically in a web browse
 * [bdg](https://github.com/szymdzum/browser-debugger-cli) - Command line tool for coding agents to drive and debug Chrome over the DevTools Protocol, with commands for the DOM, network and console.
 * [BrowserBook](https://browserbook.com) - AI-powered browser automation IDE with inline browser & coding agent built on top of Playwright.
 * [Browser-Use](https://github.com/browser-use/browser-use) - Python library and service to automate browsing using AI agents and Chrome DevTools Protocol.
+* [Casama](https://github.com/casama-ai/casama) - AI bots that browse and fill in forms on sandboxed Linux computers you can watch and take over, with approval before risky steps; the apps and computer agent are open source, the engine is closed.
 * [Clawbrowser](https://github.com/clawbrowser/clawbrowser) - Managed Chromium runtime for AI agents with isolated profiles, built-in fingerprint and proxy management, exposed over CDP for Playwright and Puppeteer.
 * [e2e](https://github.com/e2e-inc/e2e) - End-to-end testing framework with a Playwright browser engine, natural-language agent steps, and replay of verified actions.
 * [Firecrawl](https://docs.firecrawl.dev/features/browser) - Browser sandbox for AI agents to interact with live pages using prompts or Playwright code, with no local setup.
